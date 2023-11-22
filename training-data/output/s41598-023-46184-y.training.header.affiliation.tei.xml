@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>
+							<lb/>
+							<orgName type="department">Department of Medicine and Surgery</orgName>,
+							<orgName type="institution">University of Parma</orgName>,
+							<address>
+								<postCode>43121</postCode>
+								<settlement>Parma</settlement>,
+								<country>Italy.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>
+							<orgName type="department">Department of Molecular Science<lb/> and Nanosystems</orgName>,
+							<orgName type="institution">Ca&apos; Foscari University of Venice</orgName>,
+							<address>
+								<postCode>30123</postCode>
+								<settlement>Venice</settlement>,
+								<country>Italy.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>
+							<orgName type="department">Institute of Complex Systems</orgName>,
+							<orgName type="institution">National<lb/> Research Council (ISC-CNR)</orgName>,
+							<address>
+								<postCode>00185</postCode>,
+								<settlement>Rome</settlement>,
+								<country>Italy.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>4</marker>
+							<orgName type="institution">Fondazione per il Futuro delle Città</orgName>,
+							<orgName type="institution">FFC</orgName>,
+							<address>
+								<postCode>50133</postCode>
+								<settlement>Firenze</settlement>,
+							<lb/>
+								<country>Italy.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>5</marker>
+							<orgName type="laboratory">European Centre for Living Technology</orgName>,
+							<address>
+								<region>(ECLT)</region>,
+								<postCode>30123</postCode>
+								<settlement>Venice</settlement>,
+								<country>Italy.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>6</marker>
+							<orgName type="institution">Networks Unit</orgName>,
+							<orgName type="department">IMT School for<lb/> Advanced Studies Lucca</orgName>,
+							<address>
+								<postCode>55100</postCode>
+								<settlement>Lucca</settlement>,
+								<country>Italy.</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

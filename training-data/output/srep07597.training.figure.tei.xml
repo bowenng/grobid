@@ -1,0 +1,113 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_srep07597.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Experimental design. Schematic illustration of the synthesis of Cu@SiO 2 core-shell nanospheres.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>3 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Representative TEM images of the (a,b) Cu/Commercial SiO 2 , (c,d) 2 , and (e,f) free Cu NPs.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>4 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Powder X-ray diffraction patterns for the (a) Cu@SiO 2 , (b) Cu/<lb/> Commercial SiO 2 , and (c) free Cu NPs.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>5 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Nitrogen adsorption-desorption isotherms of the Cu@SiO 2<lb/> core-shell nanospheres.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>6 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Hydrogen generation from the hydrolysis of AB (0.2 M, 5 mL)<lb/> in the presence of different catalysts at 298 K (Cu/AB 5 0.09).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>7 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>(a) Hydrogen generation from the hydrolysis of AB (0.2 M, 5 mL) by the Cu@SiO 2 core-shell nanospheres at 298-316 K (Cu/AB 5 0.09).<lb/> (b) The Arrhenius plot (ln k vs. 1/T).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>1. Schlapbach, L. &amp; Zuttel, A. Hydrogen-storage materials for mobile applications.<lb/> Nature 414, 353-358 (2001).<lb/> 2. Chen, P., Xiong, Z., Luo, J., Lin, J. &amp; Tan, K. L. Interaction of hydrogen with metal<lb/> nitrides and imides. Nature 420, 302-304 (2002).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>8 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Hydrogen generation from the hydrolysis of HB (0.2 M, 5 mL)<lb/> in the presence of different catalysts at 298 K (Cu/HB 5 0.09).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>9 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Percent of initial catalytic activity retained in the successive<lb/> runs for the hydrolysis of AB and HB in the presence of Cu@SiO 2 core-<lb/>shell nanospheres at 298 K (Cu/(AB or HB) 5 0.09).</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

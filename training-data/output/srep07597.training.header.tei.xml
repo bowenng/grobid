@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="srep07597"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>One-pot synthesis of core-shell Cu@SiO 2<lb/> nanospheres and their catalysis for<lb/> hydrolytic dehydrogenation of ammonia<lb/> borane and hydrazine borane<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Qilu Yao 1 , Zhang-Hui Lu 1 , Zhujun Zhang 1 , Xiangshu Chen 1 &amp; Yaqian Lan 2<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>1 Jiangxi Inorganic Membrane Materials Engineering Research Centre, College of Chemistry and Chemical Engineering, Jiangxi<lb/> Normal University,</affiliation>
+	</byline>
+
+	<address>Nanchang 330022, China,</address>
+
+	<byline>
+	<affiliation>2 Jiangsu Key Laboratory of Biofunctional Materials, College of Chemistry and<lb/> Materials Science, Nanjing Normal University,</affiliation>
+	</byline>
+
+	<address>Nanjing 210023, China.<lb/></address>
+
+	<div type="abstract">Ultrafine copper nanoparticles (Cu NPs) within porous silica nanospheres (Cu@SiO 2 ) were prepared via a<lb/> simple one-pot synthetic route in a reverse micelle system and characterized by SEM, TEM, EDX, XRD, N 2<lb/> adsorption-desorption, CO-TPD, XPS, and ICP methods. The characterized results show that ultrafine Cu<lb/> NPs with diameter of around 2 nm are effectively embedded in the center of well-proportioned spherical<lb/> SiO 2 NPs of about 25 nm in diameter. Compared to commercial SiO 2 supported Cu NPs, SiO 2 nanospheres<lb/> supported Cu NPs, and free Cu NPs, the synthesized core-shell nanospheres Cu@SiO 2 exhibit a superior<lb/> catalytic activity for the hydrolytic dehydrogenation of ammonia borane (AB, NH 3 BH 3 ) and hydrazine<lb/> borane (HB, N 2 H 4 BH 3 ) under ambient atmosphere at room temperature. The turnover frequencies (TOF)<lb/> for the hydrolysis of AB and HB in the presence of Cu@SiO 2 nanospheres were measured to be 3.24 and<lb/> 7.58 mol H 2 (mol Cu min) 21 , respectively, relatively high values for Cu nanocatalysts in the same reaction.<lb/> In addition, the recycle tests show that the Cu@SiO 2 nanospheres are still highly active in the hydrolysis of<lb/> AB and HB, preserving 90 and 85% of their initial catalytic activity even after ten recycles, respectively.</div>
+
+	<note type="doctype">OPEN<lb/></note>
+
+	SUBJECT AREAS: NANOPARTICLES<lb/> HETEROGENEOUS CATALYSIS<lb/> FUEL CELLS<lb/>
+	<note type="submission">Received<lb/> 12 October 2014<lb/> Accepted<lb/> 3 December 2014<lb/></note>
+
+	Published<lb/>
+	<date>23 December 2014<lb/></date>
+
+	Correspondence and<lb/> requests for materials<lb/> should be addressed to<lb/> Z.-H.L. (luzh@jxnu.<lb/> edu.cn) or X.C.<lb/> (
+	<email>cxs66cn@jxnu.edu.<lb/> cn</email>
+
+	)
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="s41597-019-0033-6"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	1<lb/>
+	<reference>Scientific Data |<lb/> (2019) 6:33 | https://doi.org/10.1038/s41597-019-0033-6<lb/> www.nature.com/scientificdata<lb/></reference>
+
+	<docTitle>
+	<titlePart>a dataset of publication records for<lb/> Nobel laureates<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Jichao Li 1,2,3 , Yian Yin 2,4 , Santo Fortunato 5,6 &amp; Dashun Wang 2,3,4<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">a central question in the science of science concerns how to develop a quantitative understanding of<lb/> the evolution and impact of individual careers. Over the course of history, a relatively small fraction of<lb/> individuals have made disproportionate, profound, and lasting impacts on science and society. Despite<lb/> a long-standing interest in the careers of scientific elites across diverse disciplines, it remains difficult<lb/> to collect large-scale career histories that could serve as training sets for systematic empirical and<lb/> theoretical studies. Here, by combining unstructured data collected from CVs, university websites,<lb/> and Wikipedia, together with the publication and citation database from Microsoft Academic Graph<lb/> (MAG), we reconstructed publication histories of nearly all Nobel prize winners from the past century,<lb/> through both manual curation and algorithmic disambiguation procedures. Data validation shows that<lb/> the collected dataset presents among the most comprehensive collection of publication records for<lb/> Nobel laureates currently available. As our quantitative understanding of science deepens, this dataset<lb/> is expected to have increasing value. It will not only allow us to quantitatively probe novel patterns<lb/> of productivity, collaboration, and impact governing successful scientific careers, it may also help us<lb/> unearth the fundamental principles underlying creativity and the genesis of scientific breakthroughs.<lb/></div>
+
+	Background &amp; Summary<lb/>
+	<div type="abstract">Recent advances in the science of science have revealed a series of highly reproducible patterns governing the<lb/> fundamental dynamic of science 1-3 , ranging from citation impact of papers 4-9 , career dynamics 10-22 , to teams<lb/> and collaborations 23-27 . Although scientific elites have attracted ensuing interest from a wide range of discipli<lb/> nes 17,19-22,27-38 , spanning across sociology, economics, psychology, and physics, most quantitative analyses have<lb/> focused on the prize-winning work alone, exploring the link between age and creativity 19,20 , and allocation of<lb/> credits and recognition 27,30,32 . On the other hand, the rich patterns unveiled in qualitative studies 17,29 , including<lb/> Zuckerman&apos;s canonical work, vividly illustrates that the careers of scientific elites encompass projects well beyond<lb/> their prize-winning work. Career-level analyses of these scientific elites have remained elusive, largely due to the<lb/> difficulty in obtaining large-scale, high-resolution individual career histories.<lb/> Many studies have been devoted to building open-access datasets on scientific productivity and careers of<lb/> scientists. For example, Vuong et al. 39 introduced an open database on scientific output of Vietnamese researchers<lb/> in social sciences and humanities; and Morrison et al. 40 developed a name disambiguation method for inventors<lb/> and assignees on 8.47 million patents. While these open-accessed datasets are mostly about ordinary scientists,<lb/> researchers have also been interested in Nobel laureates. For example, Jones et al. 19 collected a biographical data-<lb/>set of 525 Nobel Prize winners, and Fortunato et al. 30 curated data on dates of birth, the year of Nobel prizes and<lb/> year(s) of publication(s) of prize-winning work. Chan et al. 41 collected a dataset consisting of 34,448 publications<lb/> of 192 Nobel laureates between 1970 and 2000 based on the Scopus dataset. Li et al. 42 collected a fraction of papers<lb/> published by Nobel laureates during the period of 1901-2012 using the Web of Science data. These efforts are<lb/> highly complementary to the dataset presented here, highlighting the wide interest in the quantitative study of<lb/> Nobel laureates.<lb/> There have also been practical utilities for such datasets. For example, Clarivate Analytics has developed tools<lb/> that use similar proprietary publication and citation databases to predict future Nobel laureates. While the focus<lb/> of Clarivate Analytics&apos; work is on predicting future laureates, the goal of our paper is to collect a comprehensive<lb/></div>
+
+	<byline>
+	<affiliation>1 college of Systems engineering, national University of Defense technology,</affiliation>
+	</byline>
+
+	<address>changsha, china.</address>
+
+	<byline>
+	<affiliation>2 northwestern<lb/> institute on complex Systems, northwestern University,</affiliation>
+	</byline>
+
+	<address>evanston, iL, USA.</address>
+
+	<byline>
+	<affiliation>3 Kellogg School of Management,<lb/> northwestern University,</affiliation>
+	</byline>
+
+	<address>evanston, iL, USA.</address>
+
+	<byline>
+	<affiliation>4 Mccormick School of engineering, northwestern University,</affiliation>
+	</byline>
+
+	<address>evanston,<lb/> iL, USA.</address>
+
+	<byline>
+	<affiliation>5 School of informatics, computing, and engineering, indiana University,</affiliation>
+	</byline>
+
+	<address>Bloomington, in, USA.</address>
+
+	<byline>
+	<affiliation>6 indiana<lb/> University network Science institute (iUni), indiana University,</affiliation>
+	</byline>
+
+	<address>Bloomington, in, USA.</address>
+
+	correspondence and requests<lb/> for materials should be addressed to D.W. (email:
+	<email>dashun.wang@northwestern.edu</email>
+
+	)<lb/>
+	<note type="submission">Received: 6 December 2018<lb/> Accepted: 7 March 2019<lb/></note>
+
+	Published: xx xx xxxx<lb/> DAtA DeSCriptOr
+	<note type="doctype">OpeN<lb/></note>
+
+	<note type="copyright">Open Access This article is licensed under a Creative Commons Attribution 4.0 International<lb/> License, which permits use, sharing, adaptation, distribution and reproduction in any medium or<lb/> format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-<lb/>ative Commons license, and indicate if changes were made. The images or other third party material in this<lb/> article are included in the article&apos;s Creative Commons license, unless indicated otherwise in a credit line to the<lb/> material. If material is not included in the article&apos;s Creative Commons license and your intended use is not per-<lb/>mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the<lb/> copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.<lb/> The Creative Commons Public Domain Dedication waiver http://creativecommons.org/publicdomain/zero/1.0/<lb/> applies to the metadata files associated with this article.<lb/> © The Author(s) 2019</note>
+
+		</front>
+	</text>
+</tei>

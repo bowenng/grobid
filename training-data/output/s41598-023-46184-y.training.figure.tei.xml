@@ -1,0 +1,105 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41598-023-46184-y.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Correlation networks of prevalent metagenomic pathways in (a) NI subjects, (b) CD subjects, (c)<lb/> UC subjects. In (a), nodes in the frontier between P. vulgatus and B. uniformis and in the frontier between F.<lb/> prauznitzii and unclassified modules are highlighted. In (b) and (c), nodes with high betweenness centrality like<lb/> node 105 are highlighted. The legend remarks the species of each node/pathway.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Projected network representation of prevalent metagenomic pathways in (a) NI subjects, (b) CD<lb/> subjects, (c) UC subjects. Networks are obtained through a bipartite projection and the exclusion of an edge<lb/> between two nodes is made through a comparison with a null model. The nodes highlighted describe the<lb/> pathway with the highest betweenness centrality. The legend remarks the species of each node/pathway.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>The barplots show the number of edges for each diagnosis in correlation networks (a) and projected<lb/> networks (b).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Correlation networks of uncommon metagenomic pathways in (a) NI subjects, (b) CD subjects, (c)<lb/> UC subjects. The nodes encircled show the position of B. fragilis and other species like E. coli and V. parvula.<lb/> The legend remarks the species of each node/pathway, where the grey nodes are classified as &apos; other&apos; .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Projected network representation of uncommon metagenomic pathways in (a) NI subjects, (b) CD<lb/> subjects, (c) UC subjects. Networks are obtained through a bipartite projection and the exclusion of an edge<lb/> between two nodes is made through a comparison with a null model. The nodes highlighted correspond to<lb/> nodes with high betweenness centralities or to nodes that compare to the NI projected network are isolated. The<lb/> legend remarks the species of each node/pathway, where the grey nodes are classified as &apos; other&apos; .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Diagram representing the methods and the network tools used to analyse the microbiome networks.<lb/> The part surrounded by the dashed line was performed by the IBDMDB.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            2)<lb/> S = -<lb/>M∈G<lb/> P(M) ln P(M)<lb/> (3)<lb/> P M|<lb/> -→<lb/> θ =<lb/> e<lb/> -H M,<lb/> -→<lb/> θ<lb/> Z<lb/> -→<lb/> θ<lb/> (4)<lb/> H M,<lb/> -→<lb/> θ = -→ α •<lb/> -→<lb/> d (M) +<lb/> -→<lb/> β -→ u (M)<lb/> (5)<lb/> V nn ′ =<lb/> N c<lb/> c=1<lb/> m nc m n ′ c =<lb/> N c<lb/> c=1<lb/> V c<lb/> nn ′ ,<lb/> (6)<lb/> </content>
+<lb/> 
+            <figDesc>p -value(V *<lb/> nn ′ ) =<lb/> V nn ′ ≥V *<lb/> nn ′<lb/> f PB (V nn ′ ) = 1 -<lb/>V nn ′ ≤V *<lb/> nn ′<lb/> f PB (V nn ′ ).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            (7)<lb/> C B (i) =<lb/> s� =t� =i∈V<lb/> σ st (i)<lb/> σ st<lb/> (8)<lb/> Q =<lb/> 1<lb/> 2m i,j<lb/> A ij -<lb/>k i k j<lb/> 2m<lb/> δ(c </content>
+ 
+            <figDesc>i , c j ).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            (9)<lb/> Q =<lb/> in +k i,in<lb/> 2m<lb/> -<lb/>tot +k i<lb/> 2m<lb/> 2<lb/> -<lb/>in<lb/> 2m<lb/> -<lb/>tot<lb/> 2m<lb/> 2<lb/> -<lb/>k i<lb/> 2m<lb/> 2<lb/> ,</content>
+        </figure>
+
+
+
+    </text>
+</tei>
+

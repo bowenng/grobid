@@ -1,0 +1,25 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_srep07597.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Activation energy (E a ) values for the hydrolysis of AB<lb/> catalyzed by different catalysts<lb/> Catalyst<lb/> E a (kJ mol 21 )<lb/> Ref.<lb/> </figDesc>
+<lb/> 
+            <table>Ni<lb/> 70<lb/> 54<lb/> Co/c-Al 2 O 3<lb/> 62<lb/> 55<lb/> Zeolite-confined Cu<lb/> 51.8 6 1.8<lb/> 35<lb/> Cu 0.2 @Co 0.8 /rGO<lb/> 51.3<lb/> 56<lb/> p(AMPS)-Cu<lb/> 48.8<lb/> 57<lb/> Cu 0.33 Fe 0.67 alloys<lb/> 43.2<lb/> 9<lb/> Cu 0.3 @Fe 0.1 Co 0.6<lb/> 38.75<lb/> 58<lb/> Cu/RGO<lb/> 38.2 6 1.5<lb/> 37<lb/> Ru@SiO 2<lb/> 38.2<lb/> 48<lb/> Cu@SiO 2<lb/> 36 6 1<lb/> This work<lb/> Pt/c-Al 2 O 3<lb/> 21<lb/> 59</table>
+		</figure>
+
+
+
+    </text>
+</tei>
+

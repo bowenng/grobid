@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Hamilton</surname>, <forename>C</forename>. <middlename>W</middlename>., <surname>Baker</surname>, <forename>R</forename>. <middlename>T</middlename>., <surname>Staubitz</surname>, <forename>A</forename>. &amp; <surname>Manners</surname>, <forename>I</forename>.</author>
+
+						<author><surname>Yadav</surname>, <forename>M</forename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Demirci</surname>, <forename>U</forename>. <middlename>B</middlename>. &amp; <surname>Miele</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Lu</surname>, <forename>Z</forename>. <middlename>H</middlename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Yao</surname>, <forename>Q</forename>. <middlename>L</middlename>., <surname>Chen</surname>, <forename>X</forename>. <middlename>S</middlename>. &amp; <surname>Lu</surname>, <forename>Z</forename>. <middlename>H</middlename>.</author>
+
+						<author><surname>Xu</surname>, <forename>Q</forename>. &amp; <surname>Chandra</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Lu</surname>, <forename>Z</forename>. <middlename>H</middlename>. et al.</author>
+
+						<author><surname>Lu</surname>, <forename>Z</forename>. <middlename>H</middlename>. et al.</author>
+
+						<author><surname>Jiang</surname>, <forename>H</forename>. <middlename>L</middlename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Karahan</surname>, <forename>S</forename>., <surname>Zahmakıran</surname>, <forename>M</forename>. &amp; O ¨zkar, <forename>S</forename>.</author>
+
+						<author><surname>Çelik</surname>, <forename>D</forename>., <surname>Karahan</surname>, <forename>S</forename>., <surname>Zahmakıran</surname>, <forename>M</forename>. &amp; O ¨zkar, <forename>S</forename>.</author>
+
+						<author><surname>Hannauer</surname>, <forename>J</forename>., <surname>Demirci</surname>, <forename>U</forename>. <middlename>B</middlename>., <surname>Geantet</surname>, <forename>C</forename>., <surname>Herrmann</surname>, <forename>J</forename>. <middlename>M</middlename>. &amp; <surname>Miele</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Cao</surname>, <forename>C</forename>. <middlename>Y</middlename>., <surname>Chen</surname>, <forename>C</forename>. <middlename>Q</middlename>., <surname>Li</surname>, <forename>W</forename>., <surname>Song</surname>, <forename>W</forename>. <middlename>G</middlename>. &amp; <surname>Cai</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Ramachandran</surname>, <forename>P</forename>. <middlename>V</middlename>. &amp; <surname>Gagare</surname>, <forename>P</forename>. <middlename>D</middlename>.</author>
+
+						<author><surname>Sun</surname>, <forename>D</forename>. <middlename>H</middlename>., <surname>Mazumder</surname>, <forename>V</forename>., <surname>Metin</surname>, <forename>O</forename> <middlename>¨</middlename>. &amp; <surname>Sun</surname>, <forename>S</forename>. <middlename>H</middlename>.</author>
+
+						<author><surname>Karahan</surname>, <forename>S</forename>., <surname>Zahmakıran</surname>, <forename>M</forename>. &amp; O ¨zkar, <forename>S</forename>.</author>
+
+						<author><surname>Li</surname>, <forename>Z</forename>., <surname>Zhu</surname>, <forename>G</forename>., <surname>Lu</surname>, <forename>G</forename>., <surname>Qiu</surname>, <forename>S</forename>. &amp; <surname>Yao</surname>, <forename>X</forename>.</author>
+
+						<author><surname>Moury</surname>, <forename>R</forename>. et al.</author>
+
+						<author><surname>Hannauer</surname>, <forename>J</forename>. et al.</author>
+
+						<author><surname>Çakanyıldırım</surname>, <forename>Ç</forename>., <surname>Demirci</surname>, <forename>U</forename>. <middlename>B</middlename>., S ¸ener, <forename>T</forename>., <surname>Xu</surname>, <forename>Q</forename>. &amp; <surname>Miele</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Zhong</surname>, <forename>D</forename>. <middlename>C</middlename>., <surname>Aranishi</surname>, <forename>K</forename>., <surname>Singh</surname>, <forename>A</forename>. <middlename>K</middlename>., <surname>Demirci</surname>, <forename>U</forename>. <middlename>B</middlename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Li</surname>, <forename>C</forename>. et al.</author>
+
+						<author><surname>Cle ´mençon</surname>, <forename>D</forename>., <surname>Petit</surname>, <forename>J</forename>. <middlename>F</middlename>., <surname>Demirci</surname>, <forename>U</forename>. <middlename>B</middlename>., <surname>Xu</surname>, <forename>Q</forename>. &amp; <surname>Miele</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Yang</surname>, <forename>L</forename>., <surname>Luo</surname>, <forename>W</forename>. &amp; <surname>Cheng</surname>, <forename>G</forename>. <middlename>Z</middlename>.</author>
+
+						<author><surname>Zahmakıran</surname>, <forename>M</forename>. &amp; O ¨zkar, <forename>S</forename>.</author>
+
+						<author><surname>Xi</surname>, <forename>P</forename>. et al.</author>
+
+						<author><surname>Wang</surname>, <forename>X</forename>., <surname>Liu</surname>, <forename>D</forename>., <surname>Song</surname>, <forename>S</forename>. &amp; <surname>Zhang</surname>, <forename>H</forename>.</author>
+
+						<author><surname>Yan</surname>, <forename>J</forename>. <middlename>M</middlename>., <surname>Zhang</surname>, <forename>X</forename>. <middlename>B</middlename>., <surname>Han</surname>, <forename>S</forename>., <surname>Shioyama</surname>, <forename>H</forename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Luo</surname>, <forename>Y</forename>. <middlename>C</middlename>., <surname>Liu</surname>, <forename>Y</forename>. <middlename>S</middlename>., <surname>Huang</surname>, <forename>Y</forename>., <surname>Liu</surname>, <forename>X</forename>. <middlename>Y</middlename>. &amp; <surname>Mou</surname>, <forename>C</forename>. <middlename>Y</middlename>.</author>
+
+						<author><surname>Li</surname>, <forename>P</forename>. <middlename>Z</middlename>., <surname>Aijaz</surname>, <forename>A</forename>. &amp; <surname>Zhou</surname>, <forename>Q</forename></author>
+
+						<author><surname>Li</surname>, <forename>Y</forename>. <middlename>Q</middlename>., <surname>Xie</surname>, <forename>L</forename>., <surname>Li</surname>, <forename>Y</forename>., <surname>Zheng</surname>, <forename>J</forename>. &amp; <surname>Li</surname>, <forename>X</forename>. <middlename>G</middlename>.</author>
+
+						<author><surname>Kalidindi</surname>, <forename>S</forename>. <middlename>B</middlename>., <surname>Sanyal</surname>, <forename>U</forename>. &amp; <surname>Jagirdar</surname>, <forename>B</forename>. <middlename>R</middlename>.</author>
+
+						<author><surname>Zahmakıran</surname>, <forename>M</forename>., <surname>Durap</surname>, <forename>F</forename>. &amp; O ¨zkar, <forename>S</forename>.</author>
+
+						<author><surname>Kaya</surname>, <forename>M</forename>., <surname>Zahmakıran</surname>, <forename>M</forename>., O ¨zkar, <forename>S</forename>. &amp; <surname>Volkan</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Yang</surname>, <forename>Y</forename>. <middlename>W</middlename>. et al.</author>
+
+						<author><surname>Yamada</surname>, <forename>Y</forename>., <surname>Yano</surname>, <forename>K</forename>. &amp; <surname>Fukuzumi</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Li</surname>, <forename>C</forename>. <middlename>M</middlename>. et al.</author>
+
+						<author><surname>Kalidindi</surname>, <forename>S</forename>. <middlename>B</middlename>., <surname>Indirani</surname>, <forename>M</forename>. &amp; <surname>Jagirdar</surname>, <forename>B</forename>. <middlename>R</middlename>.</author>
+
+						<author><surname>Yao</surname>, <forename>Q</forename>. <middlename>L</middlename>. et al.</author>
+
+						<author><surname>Gu</surname>, <forename>X</forename>. <middlename>J</middlename>., <surname>Lu</surname>, <forename>Z</forename>. <middlename>H</middlename>., <surname>Jiang</surname>, <forename>H</forename>. <middlename>L</middlename>., <surname>Akita</surname>, <forename>T</forename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Yang</surname>, <forename>T</forename>., <surname>Liu</surname>, <forename>J</forename>., <surname>Zheng</surname>, <forename>Y</forename>., <surname>Monteiro</surname>, <forename>M</forename>. <middlename>J</middlename>. &amp; <surname>Qiao</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Liu</surname>, <forename>H</forename>., <surname>Cao</surname>, <forename>C</forename>., <surname>Li</surname>, <forename>P</forename>., <surname>Yu</surname>, <forename>Y</forename>. &amp; <surname>Song</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Umegaki</surname>, <forename>T</forename>. et al.</author>
+
+						<author><surname>Jiang</surname>, <forename>H</forename>. <middlename>L</middlename>. et al.</author>
+
+						<author><surname>Lu</surname>, <forename>Z</forename>. <middlename>H</middlename>., <surname>Jiang</surname>, <forename>H</forename>. <middlename>L</middlename>., <surname>Yadav</surname>, <forename>M</forename>., <surname>Aranishi</surname>, <forename>K</forename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Yao</surname>, <forename>Q</forename>. <middlename>L</middlename>. et al.</author>
+
+						<author><surname>Miyao</surname>, <forename>T</forename>., <surname>Minoshima</surname>, <forename>K</forename>. &amp; <surname>Naito</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Liu</surname>, <forename>J</forename>. et al.</author>
+
+						<author><surname>Giersig</surname>, <forename>M</forename>., <surname>Ung</surname>, <forename>T</forename>., <surname>Liz-Marzan</surname>, <forename>L</forename>. <middlename>M</middlename>. &amp; <surname>Mulvaney</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Haeiwa</surname>, <forename>T</forename>., <surname>Segawa</surname>, <forename>K</forename>. &amp; <surname>Konishi</surname>, <forename>K</forename>.</author>
+
+						<author><surname>Guerrero-Martinez</surname>, <forename>A</forename>., <surname>Perez-Juste</surname>, <forename>J</forename>. &amp; <surname>Liz-Marzan</surname>, <forename>L</forename>. <middlename>M</middlename>.</author>
+
+						<author><surname>Chen</surname>, <forename>G</forename>., <surname>Desinan</surname>, <forename>S</forename>., <surname>Rosei</surname>, <forename>R</forename>., <surname>Rosei</surname>, <forename>F</forename>. &amp; <surname>Ma</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Xu</surname>, <forename>Q</forename>. &amp; <surname>Chandra</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Du</surname>, <forename>Y</forename>. <middlename>S</middlename>., <surname>Cao</surname>, <forename>N</forename>., <surname>Yang</surname>, <forename>L</forename>., <surname>Luo</surname>, <forename>W</forename>. &amp; <surname>Cheng</surname>, <forename>G</forename>. <middlename>Z</middlename>.</author>
+
+						<author><surname>Ozay</surname>, <forename>O</forename>., <surname>Inger</surname>, <forename>E</forename>., <surname>Aktas</surname>, <forename>N</forename>. &amp; <surname>Sahiner</surname>, <forename>N</forename>.</author>
+
+						<author><surname>Qiu</surname>, <forename>F</forename>. et al.</author>
+
+						<author><surname>Chandra</surname>, <forename>M</forename>. &amp; <surname>Xu</surname>, <forename>Q</forename>.</author>
+
+						<author><surname>Gunderloy</surname>, <forename>F</forename>. <middlename>C</middlename>. <surname>Hydrazine-Mono-and</surname> <forename>Bisborane</forename></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

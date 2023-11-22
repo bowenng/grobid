@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="s41598-023-33393-8"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	1<lb/>
+	<reference>Vol.:(0123456789)<lb/> Scientific Reports |<lb/> (2023) 13:6252<lb/> | https://doi.org/10.1038/s41598-023-33393-8<lb/></reference>
+
+	www.nature.com/scientificreports<lb/>
+	<docTitle>
+	<titlePart>Polypropylene microplastics<lb/> promote metastatic features<lb/> in human breast cancer<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Jun Hyung Park 1,5 , Seungwoo Hong 2,5 , Ok-Hyeon Kim 3 , Chul-Hong Kim 4 , Jinho Kim 4 ,<lb/> Jung-Woong Kim 4* , Sungguan Hong 2* &amp; Hyun Jung Lee 1,3*<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">Microplastics (MPs) are now a global issue due to increased plastic production and use. Recently,<lb/> various studies have been performed in response to the human health risk assessment. However,<lb/> these studies have focused on spherical MPs, which have smooth edges and a spherical shape and<lb/> account for less than 1% of MPs in nature. Unfortunately, studies on fragment-type MPs are very<lb/> limited and remain in the initial stages. In this study, we studied the effect that 16.4 µm fragment<lb/> type polypropylene (PP) MPs, which have an irregular shape and sharp edges and form naturally in<lb/> the environment, had on breast cancer. The detrimental effects of PPMPs on breast cancer metastasis<lb/> were examined. Here, 1.6 mg/ml of PPMP, which does not induce cytotoxicity in MDA-MB-231, was<lb/> used, and at this concentration, PPMP did not induce morphological changes or cellular migrating<lb/> in the MDA-MB-231 and MCF-7 cells. However, PPMP incubation for 24 hours in the MDA-MB-231<lb/> cells significantly altered the level of cell cycle-related transcripts in an RNA-seq analysis. When<lb/> confirmed by qRT-PCR, the gene expression of TMBIM6, AP2M1, and PTP4A2 was increased, while the<lb/> transcript level of FTH1 was decreased. Further, secretion of the pro-inflammatory cytokine IL-6 from<lb/> cancer cells was elevated with the incubation of PPMP for 12 hours. These results suggest that PPMP<lb/> enhances metastasis-related gene expression and cytokines in breast cancer cells, exacerbating breast<lb/> cancer metastasis.<lb/> Abbreviations<lb/> MP<lb/> Microplastic<lb/> SEM<lb/> Scanning electron microscopy<lb/> PBS<lb/> Phosphate buffered saline<lb/> HMDS<lb/> Hexamethyldisilazane<lb/> HPLC/DAD High-performance liquid chromatography/diode array detector<lb/> qRT-PCR<lb/> Quantitative real-time polymerase chain reaction<lb/> ELISA<lb/> Enzyme-linked immunoassay<lb/> ER<lb/> Estrogen receptor<lb/> PR<lb/> Progesterone receptor<lb/> HER2<lb/> Human epidermal growth factor receptor 2<lb/> Microplastics (MPs) are typically less than 5 mm in size and are not only derived from the degradation of plastic<lb/> objects in the environment but are also produced for commercial uses 1,2 . Recently, MPs have been deemed a<lb/> new environmental pollutant due to their increased production and extremely low natural biodegradation in<lb/> the ecosystem 3 . There are increasing reports of MPs in drinking water and food products, including sea salt, due<lb/> to their broad range in shape and size and the number of polymers in the oceans and freshwater ecosystems 4-6 .<lb/> Importantly, MPs can enter the human body via the accumulation of MPs in the food chain. It was reported that<lb/> MPs had been detected in the gastrointestinal tract of marine animals and human tissue and organs 7,8 .</div>
+
+	<note type="doctype">OPEN</note>
+
+	<byline>
+	<affiliation>1<lb/> Department of Global Innovative Drugs, Graduate School of Chung-Ang University,</affiliation>
+	</byline>
+
+	<address>Seoul 06974, South<lb/> Korea.</address>
+
+	<byline>
+	<affiliation>2 Department of Chemistry, College of Natural Sciences, Chung-Ang University,</affiliation>
+	</byline>
+
+	<address>Seoul 06974, South<lb/> Korea.</address>
+
+	<byline>
+	<affiliation>3 Department of Anatomy and Cell Biology, College of Medicine, Chung-Ang University,</affiliation>
+	</byline>
+
+	<address>Seoul 06974, South<lb/> Korea.</address>
+
+	<byline>
+	<affiliation>4 Department of Life Sciences, Chung-Ang University,</affiliation>
+	</byline>
+
+	<address>Seoul 06974, South Korea.</address>
+
+	5 These authors contributed<lb/> equally:
+	<byline>
+	<docAuthor>Jun Hyung Park and Seungwoo Hong. *</docAuthor>
+	</byline>
+
+	email:
+	<email>jungkim@cau.ac.kr</email>
+
+	;
+	<email>sungguanhong@cau.ac.kr</email>
+
+	;
+	<email>pluto38@<lb/> cau.ac.kr<lb/></email>
+
+	<reference>Vol:.(1234567890)<lb/> Scientific Reports |<lb/> (2023) 13:6252 |<lb/></reference>
+
+	<idno>https://doi.org/10.1038/s41598-023-33393-8<lb/></idno>
+
+	www.nature.com/scientificreports/<lb/>
+	<reference>Vol:.(1234567890)<lb/> Scientific Reports<lb/> |<lb/> (2023) 13:6252 |<lb/></reference>
+
+	<idno>https://doi.org/10.1038/s41598-023-33393-8<lb/></idno>
+
+	www.nature.com/scientificreports/
+	<div type="abstract">Results<lb/> Characterization of polypropylene microplastics (PPMPs). The SEM images were used to confirm<lb/></div>
+
+	<note type="submission">Received: 27 November 2022; Accepted: 12 April 2023<lb/></note>
+
+	Additional information<lb/> Supplementary Information The online version contains supplementary material available at https:// doi. org/<lb/> 10. 1038/ s41598-023-33393-8.<lb/> Correspondence and requests for materials should be addressed to J.-W.K., S.H. or H.J.L.<lb/> Reprints and permissions information is available at www.nature.com/reprints.<lb/> Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and<lb/> institutional affiliations.<lb/>
+	<note type="copyright">Open Access This article is licensed under a Creative Commons Attribution 4.0 International<lb/> License, which permits use, sharing, adaptation, distribution and reproduction in any medium or<lb/> format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the<lb/> Creative Commons licence, and indicate if changes were made. The images or other third party material in this<lb/> article are included in the article&apos;s Creative Commons licence, unless indicated otherwise in a credit line to the<lb/> material. If material is not included in the article&apos;s Creative Commons licence and your intended use is not<lb/> permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from<lb/> the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.<lb/> © The Author(s) 2023</note>
+
+		</front>
+	</text>
+</tei>

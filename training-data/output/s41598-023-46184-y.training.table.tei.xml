@@ -1,0 +1,171 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41598-023-46184-y.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) correlation<lb/> network with prevalent pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 821<lb/> PWY-6527|UNCLASSIFIED<lb/> 0.094492<lb/> 466<lb/> PWY-5659|FAECALIBACTERIUM_PRAUSNITZII 0.031006<lb/> 610<lb/> PWY-6122|FAECALIBACTERIUM_PRAUSNITZII 0.026071<lb/> 724<lb/> PWY-6277|FAECALIBACTERIUM_PRAUSNITZII 0.026071<lb/> 177<lb/> GLYCOGENSYNTH-PWY|UNCLASSIFIED<lb/> 0.024356<lb/> 579<lb/> PWY-6121|FAECALIBACTERIUM_PRAUSNITZII 0.017164<lb/> 1225<lb/> PWY66-422|UNCLASSIFIED<lb/> 0.015345<lb/> 751<lb/> PWY-6317|UNCLASSIFIED<lb/> 0.014598<lb/> 1090<lb/> PWY-7242|FAECALIBACTERIUM_PRAUSNITZII 0.010309<lb/> 499<lb/> PWY-5667|UNCLASSIFIED<lb/> 0.007929</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the Crohn&apos;s disease (CD)<lb/> correlation network with prevalent pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 137<lb/> DTDPRHAMSYN-PWY|UNCLASSIFIED<lb/> 0.419592<lb/> 462<lb/> PWY-5659|BACTEROIDES_OVATUS<lb/> 0.414082<lb/> 632<lb/> PWY-6124|BACTEROIDES_OVATUS<lb/> 0.349599<lb/> 988<lb/> PWY-7219|BACTEROIDES_UNIFORMIS<lb/> 0.342192<lb/> 105<lb/> COA-PWY|UNCLASSIFIED<lb/> 0.258219<lb/> 1261<lb/> SER-GLYSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII 0.133321<lb/> 204<lb/> ILEUSYN-PWY|UNCLASSIFIED<lb/> 0.116815<lb/> 5<lb/> 1CMET2-PWY|BACTEROIDES_UNIFORMIS<lb/> 0.10414<lb/> 1205<lb/> PWY0-845|BACTEROIDES_UNIFORMIS<lb/> 0.073644<lb/> 821<lb/> PWY-6527|UNCLASSIFIED<lb/> 0.051347<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top </figDesc>
+ 
+            <note>10 pathway nodes with the highest betweenness centrality in the Crohn&apos;s disease (CD)<lb/> correlation network with prevalent pathways.<lb/> </note>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 901<lb/> PWY-6737|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.319<lb/> 105<lb/> COA-PWY|UNCLASSIFIED<lb/> 0.315<lb/> 873<lb/> PWY-6703|BACTEROIDES_UNIFORMIS<lb/> 0.311<lb/> 133<lb/> DTDPRHAMSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII 0.179<lb/> 579<lb/> PWY-6121|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.110<lb/> 1093<lb/> PWY-724|UNCLASSIFIED<lb/> 0.049<lb/> 1284<lb/> THRESYN-PWY|UNCLASSIFIED<lb/> 0.049<lb/> 101<lb/> COA-PWY|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.037<lb/> 1008<lb/> PWY-7219|EUBACTERIUM_RECTALE<lb/> 0.029<lb/> 1154<lb/> PWY0-1296|UNCLASSIFIED<lb/> 0.022</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) projected<lb/> network with prevalent pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 362<lb/> PWY-3001|UNCLASSIFIED<lb/> 0.00645<lb/> 413<lb/> PWY-5097|UNCLASSIFIED<lb/> 0.00534<lb/> 610<lb/> PWY-6122|FAECALIBACTERIUM_PRAUSNITZII 0.00514<lb/> 724<lb/> PWY-6277|FAECALIBACTERIUM_PRAUSNITZII 0.00514<lb/> 544<lb/> PWY-5695|UNCLASSIFIED<lb/> 0.00430<lb/> 351<lb/> PWY-2942|FAECALIBACTERIUM_PRAUSNITZII 0.00421<lb/> 105<lb/> COA-PWY|UNCLASSIFIED<lb/> 0.00391<lb/> 1284<lb/> THRESYN-PWY|UNCLASSIFIED<lb/> 0.00313<lb/> 499<lb/> PWY-5667|UNCLASSIFIED<lb/> 0.00242<lb/> 1188<lb/> PWY0-1319|UNCLASSIFIED<lb/> 0.00242<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top </figDesc>
+ 
+            <note>10 pathway nodes with the highest betweenness centrality in the Crohn&apos;s disease (CD) projected<lb/> network with prevalent pathways.<lb/> </note>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 1285<lb/> TRNA-CHARGING-PWY|UNCLASSIFIED<lb/> 0.0108<lb/> 1225<lb/> PWY66-422|UNCLASSIFIED<lb/> 0.0077<lb/> 42<lb/> ARO-PWY|UNCLASSIFIED<lb/> 0.0066<lb/> 672<lb/> PWY-6151|UNCLASSIFIED<lb/> 0.0056<lb/> 525<lb/> PWY-5686|UNCLASSIFIED<lb/> 0.0052<lb/> 748<lb/> PWY-6317|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.0045<lb/> 1222<lb/> PWY66-422|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.0045<lb/> 865<lb/> PWY-6700|UNCLASSIFIED<lb/> 0.0045<lb/> 298<lb/> PEPTIDOGLYCANSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII 0.0031<lb/> 610<lb/> PWY-6122|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.0031</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table</head>
+
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the ulcerative colitis (UC) projected<lb/> network with prevalent pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 67<lb/> CALVIN-PWY|UNCLASSIFIED<lb/> 0.0192<lb/> 158<lb/> GLCMANNANAUT-PWY|FAECALIBACTERIUM_PRAUSNITZII 0.0132<lb/> 517<lb/> PWY-5686|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.0132<lb/> 359<lb/> PWY-2942|UNCLASSIFIED<lb/> 0.0113<lb/> 525<lb/> PWY-5686|UNCLASSIFIED<lb/> 0.0113<lb/> 865<lb/> PWY-6700|UNCLASSIFIED<lb/> 0.0113<lb/> 321<lb/> PWY-1042|FAECALIBACTERIUM_PRAUSNITZII<lb/> 0.0104<lb/> 821<lb/> PWY-6527|UNCLASSIFIED<lb/> 0.0097<lb/> 244<lb/> NONOXIPENT-PWY|UNCLASSIFIED<lb/> 0.0066<lb/> 121<lb/> COMPLETE-ARO-PWY|UNCLASSIFIED<lb/> 0.0036</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) correlation<lb/> network with uncommon pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 263<lb/> PANTO-PWY|RUMINOCOCCUS_GNAVUS<lb/> 0.163<lb/> 969<lb/> PWY-7208|EUBACTERIUM_RECTALE<lb/> 0.112<lb/> 1159<lb/> PWY0-1298|UNCLASSIFIED<lb/> 0.043<lb/> 1112<lb/> PWY-7383|UNCLASSIFIED<lb/> 0.039<lb/> 1007<lb/> PWY-7219|EUBACTERIUM_HALLII<lb/> 0.035<lb/> 836<lb/> PWY-6609|RUMINOCOCCUS_GNAVUS<lb/> 0.034<lb/> 819<lb/> PWY-6527|FAECALIBACTERIUM_PRAUSNITZII 0.033<lb/> 756<lb/> PWY-6385|BACTEROIDES_XYLANISOLVENS<lb/> 0.032<lb/> 1250<lb/> RHAMCAT-PWY|ROSEBURIA_INTESTINALIS<lb/> 0.031<lb/> 198<lb/> ILEUSYN-PWY|RUMINOCOCCUS_OBEUM<lb/> 0.028<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the Crohn&apos;s disease (CD)<lb/> correlation network with uncommon pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 156<lb/> GLCMANNANAUT-PWY|DOREA_LONGICATENA<lb/> 0.180<lb/> 500<lb/> PWY-5676|UNCLASSIFIED<lb/> 0.072<lb/> 265<lb/> PANTO-PWY|BURKHOLDERIALES_BACTERIUM_1_1_47 0.059<lb/> 395<lb/> PWY-5097|BACTEROIDES_STERCORIS<lb/> 0.058<lb/> 247<lb/> P162-PWY|UNCLASSIFIED<lb/> 0.053<lb/> 913<lb/> PWY-6897|UNCLASSIFIED<lb/> 0.052<lb/> 1312<lb/> VALSYN-PWY|DOREA_FORMICIGENERANS<lb/> 0.048<lb/> 895<lb/> PWY-6737|DOREA_LONGICATENA<lb/> 0.046<lb/> 670<lb/> PWY-6151|ROSEBURIA_INTESTINALIS<lb/> 0.043<lb/> 1003<lb/> PWY-7219|DOREA_FORMICIGENERANS<lb/> 0.042<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>9</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top </figDesc>
+ 
+            <note>10 pathway nodes with the highest betweenness centrality in the ulcerative colitis (UC)<lb/> correlation network with uncommon pathways.<lb/> </note>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 131<lb/> DTDPRHAMSYN-PWY|ESCHERICHIA_COLI<lb/> 0.175<lb/> 571<lb/> PWY-6121|ENTEROCLOSTER_BOLTEAE<lb/> 0.129<lb/> 753<lb/> PWY-6353|UNCLASSIFIED<lb/> 0.097<lb/> 1096<lb/> PWY-7282|BACTEROIDES_FRAGILIS<lb/> 0.097<lb/> 622<lb/> PWY-6123|BACTEROIDES_FRAGILIS<lb/> 0.095<lb/> 178<lb/> GLYCOL-GLYOXDEG-PWY|ESCHERICHIA_COLI<lb/> 0.053<lb/> 599<lb/> PWY-6122|ENTEROCLOSTER_BOLTEAE<lb/> 0.039<lb/> 713<lb/> PWY-6277|ENTEROCLOSTER_BOLTEAE<lb/> 0.039<lb/> 155<lb/> GLCMANNANAUT-PWY|RUMINOCOCCUS_TORQUES 0.029<lb/> 1143<lb/> PWY0-1296|ENTEROCLOSTER_BOLTEAE<lb/> 0.027<lb/> connected to </table>
+ 
+            <figDesc>Flavonifractor plautii via 5 nodes on the E. coli side and via 5 nodes on the F. plautii side. On the<lb/> E. coli side:<lb/> </figDesc>
+<lb/> 
+            <table>1. node FUCCAT-PWY|ESCHERICHIA_COLI;<lb/> 2. node PWY-6737|ESCHERICHIA_COLI;<lb/> 3. node PWY-6609|ESCHERICHIA_COLI;<lb/> 4. node PWY-6703|ESCHERICHIA_COLI;<lb/> 5. node PWY-7199|ESCHERICHIA_COLI.<lb/> On the F. plautii side:<lb/> 1. node PWY-5188|FLAVONIFRACTOR_PLAUTII;<lb/> 2. node PWY-6122|FLAVONIFRACTOR_PLAUTII;<lb/> 3. node PWY-6277|FLAVONIFRACTOR_PLAUTII;<lb/> 4. node PEPTIDOGLYCANSYN-PWY|FLAVONIFRACTOR_PLAUTII;<lb/> 5. node PWY-6121|FLAVONIFRACTOR_PLAUTII.</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>10</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) projected<lb/> network uncommon pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 27<lb/> ARGSYNBSUB-PWY|BIFIDOBACTERIUM_LONGUM<lb/> 0.153<lb/> 1309<lb/> VALSYN-PWY|ENTEROCLOSTER_BOLTEAE<lb/> 0.148<lb/> 237<lb/> NONOXIPENT-PWY|ENTEROCLOSTER_BOLTEAE<lb/> 0.142<lb/> 1044<lb/> PWY-7221|BIFIDOBACTERIUM_LONGUM<lb/> 0.080<lb/> 878<lb/> PWY-6703|LACHNOSPIRACEAE_BACTERIUM_5_1_63FAA<lb/> 0.070<lb/> 1253<lb/> SALVADEHYPOX-PWY|RUMINOCOCCUS_TORQUES<lb/> 0.042<lb/> 891<lb/> PWY-6737|CLOSTRIDIUM_LEPTUM<lb/> 0.041<lb/> 660<lb/> PWY-6151|RUMINOCOCCUS_OBEUM<lb/> 0.037<lb/> 355<lb/> PWY-2942|LACHNOSPIRACEAE_BACTERIUM_5_1_63FAA<lb/> 0.036<lb/> 55<lb/> BRANCHED-CHAIN-AA-SYN-PWY|BIFIDOBACTERIUM_LONGUM 0.033<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>11</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top </figDesc>
+ 
+            <note>10 pathway nodes with the highest betweenness centrality in the Crohn&apos;s disease (CD) projected<lb/> network with uncommon pathways.<lb/> </note>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 697<lb/> PWY-621|ESCHERICHIA_COLI<lb/> 0.207<lb/> 81<lb/> COA-PWY-1|DOREA_LONGICATENA<lb/> 0.156<lb/> 680<lb/> PWY-6163|DOREA_LONGICATENA<lb/> 0.098<lb/> 971<lb/> PWY-7208|PARASUTTERELLA_EXCREMENTIHOMINIS 0.098<lb/> 1265<lb/> SER-GLYSYN-PWY|RUMINOCOCCUS_BROMII<lb/> 0.089<lb/> 625<lb/> PWY-6123|BACTEROIDES_XYLANISOLVENS<lb/> 0.088<lb/> 584<lb/> PWY-6121|PARASUTTERELLA_EXCREMENTIHOMINIS 0.047<lb/> 615<lb/> PWY-6122|PARASUTTERELLA_EXCREMENTIHOMINIS 0.047<lb/> 729<lb/> PWY-6277|PARASUTTERELLA_EXCREMENTIHOMINIS 0.047<lb/> 950<lb/> PWY-7111|RUMINOCOCCUS_BROMII<lb/> 0.047<lb/> which in turn was connected to L. bacterium 5 1 63FAA module. 5 nodes of A. hadrus community was connected<lb/> to most of the nodes of the other two species exhibiting high betweenness centrality, they were:<lb/> 1. node VALSYN-PWY|ANAEROSTIPES_HADRUS;<lb/> 2. node PWY-5104|ANAEROSTIPES_HADRUS;<lb/> 3. node PWY-5659|ANAEROSTIPES_HADRUS;<lb/> 4. node PWY-6700|ANAEROSTIPES_HADRUS;<lb/> 5. node PWY-6121|ANAEROSTIPES_HADRUS.</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table </head>
+ 
+            <label>12</label>
+
+            <head>. </head>
+ 
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the ulcerative colitis (UC)<lb/> projected network with uncommon pathways.<lb/> </figDesc>
+<lb/> 
+            <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 314<lb/> PWY-1042|ANAEROSTIPES_HADRUS<lb/> 0.0177<lb/> 875<lb/> PWY-6703|BACTEROIDES_XYLANISOLVENS<lb/> 0.0166<lb/> 131<lb/> DTDPRHAMSYN-PWY|ESCHERICHIA_COLI<lb/> 0.0109<lb/> 391<lb/> PWY-5097|ANAEROSTIPES_HADRUS<lb/> 0.0109<lb/> 472<lb/> PWY-5667|ANAEROSTIPES_HADRUS<lb/> 0.0086<lb/> 1161<lb/> PWY0-1319|ANAEROSTIPES_HADRUS<lb/> 0.0086<lb/> 136<lb/> DTDPRHAMSYN-PWY|ROSEBURIA_INTESTINALIS 0.0079<lb/> 1108<lb/> PWY-7357|ROSEBURIA_INTESTINALIS<lb/> 0.0079<lb/> 583<lb/> PWY-6121|ODORIBACTER_SPLACHNICUS<lb/> 0.0068<lb/> 320<lb/> PWY-1042|ESCHERICHIA_COLI<lb/> 0.0063</table>
+		</figure>
+
+
+
+    </text>
+</tei>
+

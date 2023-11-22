@@ -1,0 +1,89 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41597-019-0033-6.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+		<figure type="table">
+
+            <figDesc>. The dataset is updated on a weekly basis and contains 174,910,379 papers,<lb/> 210,983,748 authors, 228,843 fields of study, 4,028 conferences, 47,963 journals, and 25,558 institutions as of June<lb/> 2018.</figDesc>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>5: Merging candidate MAG author profiles (automatic algorithm)<lb/> Reliability validataion<lb/> Curated dataset<lb/> validatation with<lb/> manually collected<lb/> CVs<lb/> validate with selected<lb/> GS profiles<lb/> (automatic algorithm)<lb/> validate with additional<lb/> affiliation information<lb/> (automatic algorithm)<lb/> Manually checkup</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <figDesc>For example, John<lb/> Macleod won the Nobel Prize in Physiology or Medicine in 1923 jointly with Frederick G. Banting for the discov-<lb/>ery of insulin (https://www.nobelprize.org/prizes/medicine/1923/macleod/facts/); the experiment that resulted in<lb/> the discovery was mainly conducted by Frederick Banting and Charles Best in John MacLeod&apos;s laboratory in 1921<lb/> and was first published in the February 1922 issue of The Journal of Laboratory and Clinical Medicine under the<lb/> names Frederick Banting and Charles Best; Macleod declined co-authorship because he considered it Banting&apos;s<lb/> and Best&apos;s work (https://en.wikipedia.org/wiki/John_Macleod_(physiologist)).</figDesc>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>File<lb/> Lines<lb/> Short description<lb/> Prize-winning paper record<lb/> 873<lb/> CSV format file containing prize-winning paper items for 545 Nobel laureates<lb/> Physics publication record<lb/> 21504<lb/> CSV format file containing publication items for 193 Physics Nobel laureates<lb/> Chemistry publication record 42657<lb/> CSV format file containing publication items for 163 Chemistry Nobel laureates<lb/> Medicine publication record<lb/> 29233<lb/> CSV format file containing publication items for 189 Medicine Nobel laureates<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Dataset dimensions.</figDesc>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>Index<lb/> Format<lb/> Short description<lb/> Field<lb/> String<lb/> Nobel field for each laureate, i.e., Physics, Chemistry, or Medicine<lb/> Laureate ID<lb/> Integer<lb/> Unique ID for each Laureate<lb/> Laureate name<lb/> String<lb/> Name of the Nobel Laureate<lb/> Prize year<lb/> Integer<lb/> Year when the Laureate won Nobel Prize<lb/> Title<lb/> String<lb/> Title of the prize-winning paper<lb/> Pub year<lb/> Integer<lb/> Publication year of the prize-winning paper<lb/> Paper ID<lb/> Integer<lb/> Unique ID for each prize-winning paper<lb/> Additional information String<lb/> Additional information refers to the prize-winning paper</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>The data type for the prize-winning paper records.<lb/> </figDesc>
+<lb/> 
+            <table>Index<lb/> Format<lb/> Short description<lb/> Laureate ID<lb/> Integer<lb/> Unique ID for each Laureate<lb/> Laureate name<lb/> String<lb/> Name of the Nobel Laureate<lb/> Prize year<lb/> Integer<lb/> Year when the Laureate won Nobel Prize<lb/> Title<lb/> String<lb/> Title of the paper<lb/> Pub year<lb/> Integer<lb/> Publication year of the paper<lb/> Paper ID<lb/> Integer<lb/> Unique MAG ID for each paper<lb/> DOI<lb/> String<lb/> Digital Object Identifier (DOI) of the paper<lb/> Journal<lb/> String<lb/> Published journal of the paper<lb/> Affiliation<lb/> String<lb/> Nobel Laureate&apos;s affiliation when publishing the paper<lb/> Is prize-winning paper String<lb/> Whether the paper is a prize-winning paper or not</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>The data type for publication records of Nobel laureates for Physics, Chemistry, and Medicine.<lb/> </figDesc>
+<lb/> 
+            <table>Statistics<lb/> Disciplines<lb/> Physics<lb/> Chemistry<lb/> Medicine<lb/> Collected laureates number<lb/> 193<lb/> 163<lb/> 189<lb/> Average publications number<lb/> 111<lb/> 262<lb/> 155<lb/> Average prize-winning paper number<lb/> 1.5<lb/> 1.6<lb/> 1.8<lb/> Average age when making prize-winning papers<lb/> 37.9<lb/> 41.0<lb/> 41.6<lb/> Average age when winning the Nobel Prize<lb/> 55.6<lb/> 58.4<lb/> 57.9<lb/> Average recognition time after making the prize-winning work 17.7<lb/> 17.4<lb/> 16.3</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table</head>
+
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>The descriptive statistics resulted from the datasets.</figDesc>
+		</figure>
+
+
+
+    </text>
+</tei>
+

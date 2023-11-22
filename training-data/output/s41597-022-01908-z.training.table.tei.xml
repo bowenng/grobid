@@ -1,0 +1,129 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41597-022-01908-z.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+		<figure type="table">
+
+            <table>Webis STEREO-21<lb/> 91,466,374 Text Reuse Cases<lb/> Publication Database<lb/> 4,656,302 PDF Files<lb/> Preprocessing<lb/> Text Alignment<lb/> Source Retrieval<lb/> Metadata</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <note>Thus, a document d′ is<lb/> considered a candidate source of text reuse for a document d, if at least one of their passage-level hash sets inter-<lb/></note>
+<lb/>
+            <table>sects 29 : ∃ ⊆<lb/> t d and t<lb/> d h t<lb/> h t<lb/> : ( )<lb/> ( )</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>Key<lb/> Description<lb/> Type<lb/> id<lb/> Unique identifier for this case, in UUID format.<lb/> String<lb/> Publication A<lb/> Locator<lb/> begin_a<lb/> Start location of matched text, measured as character offset. Integer<lb/> end_a<lb/> End location of matched text, measured as character offset. Integer<lb/> doc_length_a<lb/> Total length of publication A in characters.<lb/> Integer<lb/> Context<lb/> doi_a<lb/> DOI identifier for publication A.<lb/> String<lb/> year_a<lb/> Publication year for publication A.<lb/> Integer (optional)<lb/> field_a<lb/> Field(s) of study for publication A.<lb/> String Array (optional)<lb/> area_a<lb/> Scientific area(s) for publication A.<lb/> String Array (optional)<lb/> discipline_a<lb/> Scientific discipline(s) for publication A.<lb/> String Array (optional)<lb/> Publication B<lb/> Locator<lb/> begin_b<lb/> Start location of matched text, measured as character offset. Integer<lb/> end_b<lb/> End location of matched text, measured as character offset. Integer<lb/> doc_length_b<lb/> Total length of publication B in characters.<lb/> Integer<lb/> Context<lb/> doi_b<lb/> DOI identifier for publication B.<lb/> String<lb/> year_b<lb/> Publication year for publication B.<lb/> Integer (optional)<lb/> field_b<lb/> Field(s) of study for publication B.<lb/> String Array (optional)<lb/> area_b<lb/> Scientific area(s) for publication B.<lb/> String Array (optional)<lb/> discipline_b<lb/> Scientific discipline(s) for publication B.<lb/> String Array (optional)<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Data record overview for case data. Key denotes the top-level JSON key by which fields are identified,<lb/> Description provides an explanation of the contained data, and Type denotes the data type; &quot;optional&quot; indicates<lb/> fields that can be empty. The text fields are included only in the full version of the corpus.<lb/> </figDesc>
+<lb/> 
+            <table>Key<lb/> Description<lb/> Type<lb/> Metadata<lb/> doi<lb/> DOI identifier of the publication.<lb/> String<lb/> doc_length<lb/> Total length of the publication in characters. Integer<lb/> year<lb/> Publication year of the publication.<lb/> String Array (optional)<lb/> field<lb/> Field of study of the publication.<lb/> String Array (optional)<lb/> area<lb/> Scientific area of the publication.<lb/> String Array (optional)<lb/> discipline<lb/> Scientific discipline of the publication.<lb/> String Array (optional)</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Data record overview for publication data. Key denotes the top-level JSON key fields are identified by,</figDesc>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>5<lb/> Complexity<lb/> Data Specificity<lb/> Glinos (2014)<lb/> 0.96<lb/> 0.79<lb/> 0.92 O(nm)<lb/> Medium<lb/> Jayapal (2012)<lb/> 0.95<lb/> 0.22<lb/> 0.57 O(n + m)<lb/> Low<lb/> Nourian (2013)<lb/> 0.95<lb/> 0.43<lb/> 0.76 -<lb/>-<lb/>Gross (2014)<lb/> 0.93<lb/> 0.77<lb/> 0.89 O(nm)<lb/> Low<lb/> Alvi (2014)<lb/> 0.93<lb/> 0.55<lb/> 0.82 O(n + m)<lb/> Medium<lb/> Ours<lb/> 0.93<lb/> 0.46<lb/> 0.77 O(n + m)<lb/> Low<lb/> Baseline (2014)<lb/> 0.93<lb/> 0.34<lb/> 0.69 O(n + m)<lb/> Low<lb/> Palkovskii (2014)<lb/> 0.92<lb/> 0.83<lb/> 0.90 O(nm)<lb/> High<lb/> Torrejon (2014)<lb/> 0.90<lb/> 0.77<lb/> 0.87 O(nm)<lb/> High<lb/> Gillam (2014)<lb/> 0.89<lb/> 0.17<lb/> 0.48 O(nm)<lb/> High<lb/> Oberreuter (2014)<lb/> 0.89<lb/> 0.86<lb/> 0.88 -<lb/>-<lb/>Oberreuter (2012)<lb/> 0.89<lb/> 0.77<lb/> 0.86 -<lb/>-<lb/>Gillam (2012)<lb/> 0.89<lb/> 0.27<lb/> 0.61 O(nm)<lb/> High<lb/> Torrejon (2013)<lb/> 0.89<lb/> 0.76<lb/> 0.86 O(nm)<lb/> High<lb/> Gillam (2013)<lb/> 0.88<lb/> 0.26<lb/> 0.60 O(nm)<lb/> High<lb/> Jayapal (2013)<lb/> 0.88<lb/> 0.38<lb/> 0.70 O(n + m)<lb/> Low<lb/> Sanchez-Perez (2014)<lb/> 0.88<lb/> 0.88<lb/> 0.88 O(nm)<lb/> High<lb/> Kueppers (2012)<lb/> 0.87<lb/> 0.51<lb/> 0.76 O(nm)<lb/> Low<lb/> Shrestha (2013)<lb/> 0.87<lb/> 0.74<lb/> 0.84 O(nm)<lb/> Medium<lb/> Saremi (2013)<lb/> 0.87<lb/> 0.77<lb/> 0.85 -<lb/>-<lb/>Shrestha (2014)<lb/> 0.86<lb/> 0.84<lb/> 0.86 O(nm)<lb/> Medium<lb/> Kong (2012)<lb/> 0.85<lb/> 0.82<lb/> 0.84 O(nm)<lb/> Low<lb/> Suchomel (2012)<lb/> 0.84<lb/> 0.65<lb/> 0.79 O(n + m)<lb/> Medium<lb/> Kong (2014)<lb/> 0.84<lb/> 0.81<lb/> 0.83 O(nm)<lb/> Low<lb/> Kong (2013)<lb/> 0.83<lb/> 0.81<lb/> 0.83 O(nm)<lb/> Low<lb/> Torrejon (2012)<lb/> 0.83<lb/> 0.75<lb/> 0.81 O(nm)<lb/> High<lb/> Palkovskii (2013)<lb/> 0.82<lb/> 0.54<lb/> 0.74 O(nm)<lb/> High<lb/> Palkovskii (2012)<lb/> 0.82<lb/> 0.76<lb/> 0.81 O(nm)<lb/> High<lb/> Abnar (2014)<lb/> 0.77<lb/> 0.61<lb/> 0.73 O(nm)<lb/> Medium<lb/> Suchomel (2013)<lb/> 0.73<lb/> 0.77<lb/> 0.74 O(n + m)<lb/> Medium<lb/> Sanchez-Vega (2012)<lb/> 0.40<lb/> 0.56<lb/> 0.42 O(nm)<lb/> Medium<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Precision, Recall, and F 0.5 score of competing alignment approaches by teams participating at the PAN<lb/> Shared Tasks, taken from Potthast et al.</figDesc>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>PAN13 Evaluation Corpus<lb/> Precision<lb/> Recall<lb/> F0.5<lb/> No Obfuscation<lb/> 0.88<lb/> 0.90<lb/> 0.88<lb/> No Plagiarism<lb/> 1.00<lb/> 1.00<lb/> 1.00<lb/> Random Obfuscation<lb/> 0.90<lb/> 0.11<lb/> 0.37<lb/> Summary Obfuscation<lb/> 0.99<lb/> 0.10<lb/> 0.36<lb/> Translation Obfuscation<lb/> 0.88<lb/> 0.16<lb/> 0.46<lb/> Entire Corpus<lb/> 0.93<lb/> 0.46<lb/> 0.77<lb/> </table>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Precision, Recall, and F 0.5 of the text alignment component per obfuscation strategy and on the<lb/> complete evaluation corpus.<lb/> </figDesc>
+<lb/> 
+            <table>Discipline<lb/> Cases<lb/> Publications<lb/> Natural Sciences<lb/> 21,504,070<lb/> (24%) 1,606,599 (38%)<lb/> Engineering Sciences<lb/> 14,753,613<lb/> (16%) 911,226<lb/> (21%)<lb/> Life Sciences<lb/> 43,358,077<lb/> (47%) 1,646,843 (39%)<lb/> Humanities &amp; Social Sciences 15,265,777<lb/> (17%) 748,298<lb/> (18%)<lb/> Total<lb/> 91,466,374<lb/> 4,267,166</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <head>Table</head>
+
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Number and ratio of cases and publications per scientific discipline. Percentages can exceed 100 in<lb/> sum due to multiple membership.<lb/> </figDesc>
+<lb/> 
+            <table>0.0<lb/> 0 .2<lb/> 0.4<lb/> 0 .6<lb/> 0.8<lb/> 1 .0<lb/> Normalized Position<lb/> 10 2<lb/> 10 1<lb/> 10 0<lb/> Cumulative Ratio<lb/> (b)<lb/> 0.0<lb/> 0 .2<lb/> 0.4<lb/> 0 .6<lb/> 0.8<lb/> 1 .0<lb/> Normalized Length<lb/> 10 2<lb/> 10 1</table>
+		</figure>
+
+
+		<figure type="table">
+
+            <table>Publication A<lb/> Publication B<lb/> </table>
+<lb/> 
+            <figDesc>[…] children than men in lower classes nor experienced the same downward<lb/> mobility. Clark writes, &quot;</figDesc>
+
+            <head>Thus we may speculate that England&apos;s advantage lay<lb/> in the rapid cultural, and potentially also genetic, diffusion of the values of<lb/> the economically successful throughout society in the years 1200-1800&quot;<lb/> (p. 271). </head>
+ 
+            <figDesc>It does not serve the book well to dwell on the rebuttal of its evolutionary<lb/> […] https://doi.org/10.1111/j.1475-4991.2009.00354.x<lb/> […] Impact on the standard of living, but eventually they led to the end of the<lb/> long Malthusian era. &quot;</figDesc>
+
+            <head>Thus we may speculate that England&apos;s advantage lay in<lb/> the rapid cultural, and potentially also genetic, diffusion of the values of the<lb/> economically successful throughout society in the years 1200-1800&quot; (p. 271).<lb/> </head>
+<lb/> 
+            <figDesc>Finally, Clark considers the great divergence among today&apos;s economies. Because<lb/> […] https://doi.org/10.1111/j.1468-0289.2008.00432_10.x<lb/> […] static approximation of the ColourSinglet Model, we have seen that the<lb/> production amplitude receives </figDesc>
+ 
+            <head>contributions from two different cuts. The<lb/> first one in its static limit gives the colour-singlet mechanism. The second<lb/> one has not been considered so far. We treat it in a gauge-invariant manner<lb/> by introducing necessary new 4-point vertices, suggestive of the colour-<lb/>octet mechanism. </head>
+ 
+            <figDesc>This new contribution can be as large as the colour-singlet<lb/> mechanism at high https://doi.org/10.1063/1.2122163<lb/> […] and we show that the lowest-order mechanism for heavy-quarkonium<lb/> production receives </figDesc>
+ 
+            <head>in general contributions from two different cuts. The<lb/> first one corresponds to the usual colour-singlet mechanism. The second one<lb/> has not been considered so far. We treat it in a gauge-invariant manner, and<lb/> introduce new 4-point vertices, suggestive of the colour-octet mechanism.<lb/> </head>
+<lb/> 
+            <figDesc>These new objects enable us to go beyond the static approximation. We show that<lb/> the contribution of […] https://doi.org/10.1016/j.physletb.2005.11.073<lb/> […] The authors declare that they have no competing interests. MS and MMD<lb/> drafted and wrote the manuscript. MS, MMD and KCRP participated in the<lb/> care of the patient and interpretation of the investigations. All authors read and<lb/> approved the final manuscript. […] https://doi.org/10.1186/1757-1626-2-147<lb/> […] The authors declare that they have no competing interests. Authors&apos;<lb/> contributions: AJB is the chief investigator of the CASP trial, he is responsible<lb/> for the conduct of the study and the clinical supervision and training of the<lb/> therapists and he wrote the first draft of this paper. CS drafted an earlier version<lb/> of the grant proposal and collaborated with AJB, MT, RR &amp; PH to produce<lb/> the successful proposal. CS also provided clinical supervision and therapist<lb/> training. LS edited and revised the proposal and is responsible for the day to<lb/> day running of the trial. All authors read and approved the final manuscript.<lb/> […] https://doi.org/10.1186/1471-244X-13-199<lb/> </figDesc>
+<lb/> 
+            <head>Table </head>
+ 
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Matched text with before and after context for selected reuse examples. Portions with highest similarity<lb/> in bold. DOIs of original publications given.</figDesc>
+		</figure>
+
+
+
+    </text>
+</tei>
+

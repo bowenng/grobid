@@ -1,0 +1,61 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+        <bibl><label>1</label>. Fortunato, S. et al. Science of science. Science 359, eaao0185, https://doi.org/10.1126/science.aao0185 (2018).<lb/> </bibl>
+        <bibl><label>2</label>. Azoulay, P. et al. Toward a more scientific science. Science 361, 1194-1197, https://doi.org/10.1126/science.aav2484 (2018).<lb/> </bibl>
+        <bibl><label>3</label>. Zeng, A. et al. The science of science: From the perspective of complex systems. Phys. Rep. 714, 1-73, https://doi.org/10.1016/j.<lb/> physrep.2017.10.001 (2017).<lb/> </bibl>
+        <bibl><label>4</label>. Wang, D. S., Song, C. M. &amp; Barabasi, A. L. Quantifying long-term scientific impact. Science 342, 127-132, https://doi.org/10.1126/<lb/> science.1237825 (2013).<lb/> </bibl>
+        <bibl><label>5</label>. Mukherjee, S., Romero, D. M., Jones, B. &amp; Uzzi, B. The nearly universal link between the age of past knowledge and tomorrow&apos;s<lb/> breakthroughs in science and technology: The hotspot. Sci. Adv. 3, e1601315, https://doi.org/10.1126/sciadv.1601315 (2017).<lb/> </bibl>
+        <bibl><label>6</label>. Uzzi, B., Mukherjee, S., Stringer, M. &amp; Jones, B. Atypical combinations and scientific impact. Science 342, 468-472, https://doi.<lb/> org/10.1126/science.1240474 (2013).<lb/> </bibl>
+        <bibl><label>7</label>. Garfield, E. Citation Indexing: Its Theory and Application in Science, Technology, and Humanities. (Isi Press, 1979).<lb/> </bibl>
+        <bibl><label>8</label>. Garfield, E. Citation analysis as a tool in journal evaluation. Science 178, 471-479, https://doi.org/10.1126/science.178.4060.471<lb/> (1972).<lb/> </bibl>
+        <bibl><label>9</label>. Radicchi, F., Fortunato, S. &amp; Castellano, C. Universality of citation distributions: Toward an objective measure of scientific impact.<lb/> Proc. Natl Acad. Sci. USA 105, 17268-17272, https://doi.org/10.1073/pnas.0806977105 (2008).<lb/> </bibl>
+        <bibl><label>10</label>. Liu, L. et al. Hot streaks in artistic, cultural, and scientific careers. Nature 559, 396-399, https://doi.org/10.1038/s41586-018-0315-8<lb/> (2018).<lb/> </bibl>
+        <bibl><label>11</label>. Sinatra, R., Wang, D., Deville, P., Song, C. &amp; Barabási, A. L. Quantifying the evolution of individual scientific impact. Science 354,<lb/> aaf5239, https://doi.org/10.1126/science.aaf5239 (2016).<lb/> </bibl>
+        <bibl><label>12</label>. Jones, B. F. Age and great invention. Rev. Econ. Stat. 92, 1-14, https://doi.org/10.1162/rest.2009.11724 (2010).<lb/> </bibl>
+        <bibl><label>13</label>. Jones, B. F. The burden of knowledge and the &quot;death of the renaissance man&quot;: Is innovation getting harder? Rev. Econ. Stud 76,<lb/> 283-317, https://doi.org/10.1111/j.1467-937X.2008.00531.x (2009).<lb/> </bibl>
+        <bibl><label>14</label>. Clauset, A., Arbesman, S. &amp; Larremore, D. B. Systematic inequality and hierarchy in faculty hiring networks. Sci. Adv. 1, e1400005,<lb/> https://doi.org/10.1126/sciadv.1400005 (2015).<lb/> </bibl>
+        <bibl><label>15</label>. Way, S. F., Morgan, A. C., Clauset, A. &amp; Larremore, D. B. The misleading narrative of the canonical faculty productivity trajectory.<lb/> Proc. Natl Acad. Sci. USA 114, E9216-E9223, https://doi.org/10.1073/pnas.1702121114 (2017).<lb/> </bibl>
+        <bibl><label>16</label>. Petersen, A. M. et al. Reputation and impact in academic careers. Proc. Natl Acad. Sci. USA 111, 15316-15321, https://doi.<lb/> org/10.1073/pnas.1323111111 (2014).<lb/> </bibl>
+        <bibl><label>17</label>. Zuckerman, H. Scientific elite: Nobel laureates in the United States. (Free Press, 1977).<lb/> </bibl>
+        <bibl><label>18</label>. Merton, R. K. The Matthew effect in science. Science 159, 56-63, https://doi.org/10.1126/science.159.3810.56 (1968).<lb/> </bibl>
+        <bibl><label>19</label>. Jones, B. F. &amp; Weinberg, B. A. Age dynamics in scientific creativity. Proc. Natl Acad. Sci. USA 108, 18910-18914, https://doi.<lb/> org/10.1073/pnas.1102895108 (2011).<lb/> </bibl>
+        <bibl><label>20</label>. Simonton, D. K. Creative productivity: A predictive and explanatory model of career trajectories and landmarks. Psychol. Rev. 104,<lb/> 66-89, https://doi.org/10.1037/0033-295x.104.1.66 (1997).<lb/> </bibl>
+        <bibl><label>21</label>. Simonton, D. K. Genius, Creativity, and Leadership. (Harvard University Press, 1984).<lb/> </bibl>
+        <bibl><label>22</label>. Moreira, J. A. G., Zeng, X. H. T. &amp; Amaral, L. A. N. The distribution of the asymptotic number of citations to sets of publications by<lb/> a researcher or from an academic department are consistent with a discrete lognormal model. Plos One 10, e0143108, https://doi.<lb/> org/10.1371/journal.pone.0143108 (2015).<lb/> </bibl>
+        <bibl><label>23</label>. Wu, L., Wang, D. &amp; Evans, J. A. Large teams develop and small teams disrupt science and technology. Nature, 566, 378-382, https://<lb/> doi.org/10.1038/s41586-019-0941-9 (2017).<lb/> </bibl>
+        <bibl><label>24</label>. Wuchty, S., Jones, B. F. &amp; Uzzi, B. The increasing dominance of teams in production of knowledge. Science 316, 1036-1039, https://<lb/> doi.org/10.1126/science.1136099 (2007).<lb/> </bibl>
+        <bibl><label>25</label>. Milojevic, S. Principles of scientific research team formation and evolution. Proc. Natl Acad. Sci. USA 111, 3984-3989, https://doi.<lb/> org/10.1073/pnas.1309723111 (2014).<lb/> </bibl>
+        <bibl><label>26</label>. Newman, M. E. J. Coauthorship networks and patterns of scientific collaboration. Proc. Natl Acad. Sci. USA 101, 5200-5205, https://<lb/> doi.org/10.1073/pnas.0307545100 (2004).<lb/> </bibl>
+        <bibl><label>27</label>. Shen, H. W. &amp; Barabasi, A. L. Collective credit allocation in science. Proc. Natl Acad. Sci. USA 111, 12325-12330, https://doi.<lb/> org/10.1073/pnas.1401992111 (2014).<lb/> </bibl>
+        <bibl><label>28</label>. Zuckerman, H. Nobel laureates in science: Patterns of productivity, collaboration, and authorship. Am. Sociol. Rev. 32, 391-403,<lb/> https://doi.org/10.2307/2091086 (1967).<lb/> </bibl>
+        <bibl><label>29</label>. Zuckerman, H. The sociology of the Nobel prizes. Sci. Am. 217, 25-33, https://doi.org/10.1038/scientificamerican1167-25 (1967).<lb/> </bibl>
+        <bibl><label>30</label>. Fortunato, S. Growing time lag threatens Nobels. Nature 508, 186-186, https://doi.org/10.1038/508186a (2014).<lb/> </bibl>
+        <bibl><label>31</label>. Nobel reactions. Nat. Phys. 13, 921-921, https://doi.org/10.1038/nphys4296 (2017).<lb/> </bibl>
+        <bibl><label>32</label>. Chan, H. F. &amp; Torgler, B. Time-lapsed awards for excellence. Nature 500, 29-29, https://doi.org/10.1038/500029c (2013).<lb/> </bibl>
+        <bibl><label>33</label>. Mazloumian, A., Eom, Y. H., Helbing, D., Lozano, S. &amp; Fortunato, S. How citation boosts promote scientific paradigm shifts and<lb/> nobel prizes. PLoS One 6, e18975, https://doi.org/10.1371/journal.pone.0018975 (2011).<lb/> </bibl>
+        <bibl><label>34</label>. Hansson, N., Halling, T. &amp; Fangerau, H. Nobel nomination letters point to a winning formula. Nature 555, 311, https://doi.<lb/> org/10.1038/d41586-018-03057-z (2018).<lb/> </bibl>
+        <bibl><label>35</label>. Seeman, J. I. Synthesis and the Nobel prize in chemistry. Nat. Chem 9, 925-929, https://doi.org/10.1038/nchem.2864 (2017).<lb/> </bibl>
+        <bibl><label>36</label>. Fleming, L., Mingo, S. &amp; Chen, D. Collaborative brokerage, generative creativity, and creative success. Admin. Sci. Quart. 52,<lb/> 443-475, https://doi.org/10.2189/asqu.52.3.443 (2007).<lb/> </bibl>
+        <bibl><label>37</label>. Singh, J. &amp; Fleming, L. Lone inventors as sources of breakthroughs: Myth or reality? Manage. Sci. 56, 41-56, https://doi.org/10.1287/<lb/> mnsc.1090.1072 (2010).<lb/> </bibl>
+        <bibl><label>38</label>. Azoulay, P., Stuart, T. &amp; Wang, Y. B. Matthew: Effect or fable? Manage. Sci. 60, 92-109, https://doi.org/10.1287/mnsc.2013.1755<lb/> (2014).<lb/> </bibl>
+        <bibl><label>39</label>. Vuong, Q. H. et al. An open database of productivity in Vietnam&apos;s social sciences and humanities for public use. Sci. Data 5, 180188,<lb/> https://doi.org/10.1038/sdata.2018.188 (2018).<lb/> </bibl>
+        <bibl><label>40</label>. Morrison, G., Riccaboni, M. &amp; Pammolli, F. Disambiguation of patent inventors and assignees using high-resolution geolocation<lb/> data. Sci. Data 4, 170064, https://doi.org/10.1038/sdata.2017.64 (2017).<lb/> </bibl>
+        <bibl><label>41</label>. Chan, H. F., Onder, A. S. &amp; Torgler, B. The first cut is the deepest: repeated interactions of coauthorship and academic productivity<lb/> in Nobel laureate teams. Scientometrics 106, 509-524, https://doi.org/10.1007/s11192-015-1796-y (2016).<lb/> </bibl>
+        <bibl><label>42</label>. Li, J. &amp; Shi, D. B. Sleeping beauties in genius work: When were they awakened? J. Assoc. Inf. Sci. Tech 67, 432-440, https://doi.<lb/> org/10.1002/asi.23380 (2016).<lb/> </bibl>
+        <bibl><label>43</label>. Li, J., Yin, Y., Fortunato, S., &amp; Wang, D. A dataset of publication records for Nobel laureates. Harvard Dataverse, https://doi.<lb/> org/10.7910/DVN/6NJ5RN (2018).<lb/> </bibl>
+        <bibl><label>44</label>. Li, J., Yin, Y., Fortunato, S. &amp; Wang, D. Nobel laureates are almost the same as us. Nat. Rev. Phys. In Press (2019).<lb/> </bibl>
+        <bibl><label>45</label>. Sinha, A. et al. In Proceedings of the 24th International Conference on World Wide Web 243-246, https://doi.org/10.1145/2740908.2742839<lb/> (ACM, 2015).<lb/> </bibl>
+        <bibl><label>46</label>. Ferreira, A. A., Goncalves, M. A. &amp; Laender, A. H. F. A brief survey of automatic methods for author name disambiguation. Sigmod.<lb/> Rec 41, 15-26 (2012).<lb/> </bibl>
+        <bibl><label>47</label>. Smalheiser, N. R. &amp; Torvik, V. I. Author name disambiguation. Annu. Rev. Inform. Sci 43, 287-313 (2009).<lb/> </bibl>
+        <bibl><label>48</label>. Tang, J. et al. In Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining 990-998,<lb/> https://doi.org/10.1145/1401890.1402008 (ACM, 2008).<lb/> </bibl>
+        <bibl><label>49</label>. Dong, Y., Ma, H., Shen, Z. &amp; Wang, K. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery<lb/> and Data Mining 1437-1446, https://doi.org/10.1145/3097983.3098016 (ACM, 2017).<lb/> </bibl>
+        <bibl><label>50</label>. Reijnhoudt, L., Costas, R., Noyons, E., Börner, K. &amp; Scharnhorst, A. &apos;Seed + expand&apos;: a general methodology for detecting<lb/> publication oeuvres of individual researchers. Scientometrics 101,1403-1417, https://doi.org/10.1007/s11192-014-1256-0 (2014).<lb/> </bibl>
+        <bibl><label>51</label>. Zhu, X. &amp; Ghahramani, Z. Learning from labeled and unlabeled data with label propagation. Report No. CMU-CALD-02-107<lb/> (Carnegie Mellon University, 2002).</bibl>
+        </listBibl>
+    </text>
+</tei>
+

@@ -1,0 +1,43 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41597-019-0033-6.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            MAG database<lb/> Prize-winning papers<lb/> Other ground truth papers<lb/> Collected publication records<lb/> Multiple sources<lb/> Verification<lb/> }<lb/> {<lb/> WIKIPEDIA<lb/> Home Page<lb/> nobelprize.org<lb/> Google Scholar<lb/> Affiliation<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>1 </label>
+ 
+            <figDesc>Data collection and validation framework. We first manually collected each laureate&apos;s prize-winning<lb/> paper and other &quot;ground-truth&quot; papers from multiple sources such as Nobel Prize official websites, Wikipedia,<lb/> and their home pages, and matched these papers in MAG database as seeds. The entire publication record for<lb/> each laureate is then collected through a &quot;Seed + Expand&quot; process. The red plus symbols indicate the laureate&apos;s<lb/> papers while the red minus symbols represent noise papers. The obtained dataset is validated with external<lb/> sources, including CVs, GS profiles, affiliation information, and manual verifications.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Matched Nobel lecture<lb/> paper in MAG dataset<lb/> Prize-winning paper<lb/> Prize motivation<lb/> Title of Nobel Lecture<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>2 </label>
+ 
+            <figDesc>Procedure for identifying the prize-winning paper of 2010 Physics Nobel laureate Andre Geim. Step 1:<lb/> The official website of the Nobel Prize, nobelprize.org, offers rich information for identifying the prize-winning<lb/> works of Nobel laureates, including the year or period of the prize-winning achievement, the prize motivation,<lb/> the title of the Nobel Lecture, etc. Step 2: We can obtain detailed information on the Nobel Lecture in the<lb/> MAG dataset. Step 3: We can identify the prize-winning paper from the reference of the Nobel Lecture using<lb/> information derived in Step 1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            MAG database<lb/> papers<lb/> a<lb/> b<lb/> c<lb/> Author profile MAG </content>
+ 
+            <figDesc>dataset<lb/> with the same name of Nobel laureates<lb/> profile<lb/> Identified ground truth papers<lb/> from multiple sources as seed papers<lb/> Fig.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

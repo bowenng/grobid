@@ -1,0 +1,83 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41598-023-33393-8.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Characterization and SEM images of the PPMPs (A) SEM images of the fragment type PPMPs (B)<lb/> The particle size distribution plot of the PPMPs indicates that the PP particles have the largest volume density<lb/> (%) at 16.40 μm. (C) Comparison of the HPLC chromatograms before (left, Vehicle) and after the microplastic<lb/> treatment at the selective adsorptions (right, PPMP).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Effect of PPMP on cell viability in human breast cancer cells. (A) PPMPs were added to the<lb/> MDA-MB-231 cells and incubated for 24 hours. The graph shows the survival rates of cells with or without<lb/> PPMPs (n = 3 independent experiments; one-way ANOVA, *p &lt; 0.05, **p &lt; 0.01 relative to 0 mg/ml PPMPs).<lb/> (B) SEM image shows MDA-MB-231 cells with or without PPMPs for 24 hours. The red arrows indicate a<lb/> PPMP on the cell surface.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Effect of PPMP on breast cancer cell motility. (A) Both breast cancer cell lines were incubated with<lb/> PPMPs and observed under a time-lapse imaging microscope for six hours. The plots depict the motility of<lb/> individual cells in the representative experiment. (B) Quantification of the migration speed reveals unchanged<lb/> cellular velocity by the PPMPs treatment in both cell lines. The results are expression as the mean ± SEM; n<lb/> = 360 individual cells for both cell lines. (unpaired two-tailed t test, p = 0.7629 for the MDA-MB-231 cells<lb/> and p = 0.1116 for the MCF-7 cells). (C) and (D) Effects of the PPMPs on the ability of wound healing in<lb/> the MDA-MB-231 and MCF-7 cell lines. Photos in each group were taken at 0 hours and 12 hours after the<lb/> PPMP treatment. The closed area (indicated yellow line) was quantified by Image J software. Experiments were<lb/> repeated independently three times for the MCF-7 cells and five times for the MDA-MB-231 cells (unpaired<lb/> two-tailed t test; p = 0.0684 for the MDA-MB-231 cells, p = 0.7760 for the MCF-7 cells).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Transcriptomic dynamics in PPMP-treated MDA-MB-231 cells. The common gene expression<lb/> patterns through two independent experiments were identified by transcriptomic analysis using the RNA-seq<lb/> platform. (A) Principal component analysis (PCA) of the RNA-seq analysis. The values indicate the amount of<lb/> variation attributed to each principal component. The small circles indicate individual samples, blue asterisks<lb/> indicate the average between experimental replicates, and larger gray ovals represent each experimental group.<lb/> (B) The volcano plot from the filtered significant DETs from the MDA-MB-231 cells with or without the PPMP<lb/> incubation. (C) The differential gene expression patterns of DETs in the RNA-seq analysis. The hierarchical<lb/> clustering of genes (rows) and experimental samples (columns) from the RNA-seq data. (D) The top enriched<lb/> GO cellular components and biological processes of PPMP-treated cells, visualized from the significantly<lb/> upregulated DETs from the RNA-seq platform. The size of the circle represents the enriched genes, and the color<lb/> represents -log 10 of the p-value. (E) Transcript levels of TMBIM6, AP2M1, PTP4A2, and FTH1 were evaluated<lb/> by qRT-PCR in MDA-MB-231 cells (unpaired two-tailed t test, *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 relative to the<lb/> vehicle group).<lb/> Vol:.(1234567890)<lb/> Scientific Reports<lb/> |<lb/> (2023) 13:6252 |<lb/> https://doi.org/10.1038/s41598-023-33393-8</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Effect of PPMP on cell cycle in breast cancer cells. (A) FUCCI images were captured after the<lb/> PPMP application at 0, 6, 12 and 24 hours while monitoring the cell cycle of living cells in real-time. The<lb/> scale bar represents 10 µm. (B) Histograms show the cell cycle rate at each time. Cells at each cycle stage were<lb/> quantitatively evaluated by counting the number of cells of each color. Cell cycle profiles are color coded: G1,<lb/> red; initial S, yellow; and late S/G2/M, green (n = 52-129 per group total number of cells).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Effect of PPMP on pro-inflammatory cytokines in breast cancer cells. (A) and (B) IL-6 secretion was<lb/> evaluated by an ELISA in MDA-MB-231 and MCF-7 breast cancer cells (unpaired two-tailed t test, ***p &lt; 0.001,<lb/> n = 3 for the MDA-MB-231 cells; n = 6 for the MCF-7 cells).</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

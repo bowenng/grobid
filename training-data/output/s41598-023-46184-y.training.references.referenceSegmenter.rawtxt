@@ -1,0 +1,127 @@
+Vol:.(1234567890) 
+
+Scientific Reports | 
+(2023) 13:19428 | 
+https://doi.org/10.1038/s41598-023-46184-y 
+
+Vol:.(1234567890) 
+
+Scientific Reports | 
+(2023) 13:19428 | 
+https://doi.org/10.1038/s41598-023-46184-y 
+
+www.nature.com/scientificreports/ 
+
+Finally, in the last step of the algorithm, in order to understand which p-values were significant, a false-discovery 
+rate or FDR has been adopted to take into account the fact that we were testing multiple hypotheses 54 . 
+
+References 
+
+1. Sender, R., Fuchs, S. & Milo, R. Revised estimates for the number of human and bacteria cells in the body. PLoS Biol. 14, e1002533 
+(2016). 
+2. Thursby, E. & Juge, N. Introduction to the human gut microbiota. Biochem. J. 474, 1823-1836 (2017). 
+3. Tanaka, M. & Nakayama, J. Development of the gut microbiota in infancy and its impact on health in later life. Allergol. Int. 66, 
+515-522 (2017). 
+4. Ma, Y., Chen, H., Lan, C. & Ren, J. Help, hope and hype: Ethical considerations of human microbiome research and applications. 
+Protein Cell 9, 404-415 (2018). 
+
+5. Farré-Maduell, E. & Casals-Pascual, C. The origins of gut microbiome research in Europe: From Escherich to Nissle. Hum. Micro-
+biome J. 14, 100065 (2019). 
+6. Natividad, J. M. M. & Verdu, E. F. Modulation of intestinal barrier by intestinal microbiota: Pathological and therapeutic implica-
+tions. Pharmacol. Res. 69, 42-51 (2013). 
+7. Sommer, F. & Bäckhed, F. The gut microbiota-masters of host development and physiology. Nat. Rev. Microbiol. 11, 227-238 (2013). 
+8. Belizário, J. E. & Faintuch, J. Microbiome and gut dysbiosis. In Metabolic Interaction in Infection, 459-476 (Springer, 2018). 
+9. Borody, T. J. & Khoruts, A. Fecal microbiota transplantation and emerging applications. Nat. Rev. Gastroenterol. Hepatol. 9, 88-96 
+(2012). 
+10. Singh, S. et al. Common symptoms and stressors among individuals with inflammatory bowel diseases. Clin. Gastroenterol. Hepatol. 
+9, 769-775 (2011). 
+11. Ananthakrishnan, A. N., Xavier, R. J. & Podolsky, D. K. Inflammatory Bowel Diseases: A Clinician's Guide (Wiley, New York, 2017). 
+12. Manichanh, C., Borruel, N., Casellas, F. & Guarner, F. The gut microbiota in IBD. Nat. Rev. Gastroenterol. Hepatol. 9, 599-608 
+(2012). 
+13. Kirsner, J. B. Historical aspects of inflammatory bowel disease. J. Clin. gastroenterol. 10, 286-297 (1988). 
+14. Kaplan, G. G. The global burden of IBD: From 2015 to 2025. Nat. Rev. Gastroenterol. Hepatol. 12, 720-727 (2015). 
+15. Xavier, R. J. & Podolsky, D. K. Unravelling the pathogenesis of inflammatory bowel disease. Nature 448, 427-434 (2007). 
+16. Lees, C. W. & Satsangi, J. Genetics of inflammatory bowel disease: Implications for disease pathogenesis and natural history. Expert 
+Rev. Gastroenterol. Hepatol. 3, 513-534 (2009). 
+17. Zhang, Y.-Z. & Li, Y.-Y. Inflammatory bowel disease: Pathogenesis. World J. Gastroenterol. WJG 20, 91 (2014). 
+18. Fiocchi, C. & Iliopoulos, D. IBD systems biology is here to stay. Inflamm. Bowel Dis. 27, 760-770 (2021). 
+19. De Souza, H. S. P., Fiocchi, C. & Iliopoulos, D. The IBD interactome: An integrated view of aetiology, pathogenesis and therapy. 
+Nat. Rev. Gastroenterol. Hepatol. 14, 739-749 (2017). 
+20. Barabási, A.-L., Gulbahce, N. & Loscalzo, J. Network medicine: A network-based approach to human disease. Nat. Rev. Genet. 12, 
+56 (2011). 
+21. Faust, K. et al. Signatures of ecological processes in microbial community time series. Microbiome 6, 1-13 (2018). 
+22. Bucci, V. et al. MDSINE: Microbial Dynamical Systems INference Engine for microbiome time-series analyses. Genome Biol. 17, 
+1-17 (2016). 
+23. Coyte, K. Z. & Rakoff-Nahoum, S. Understanding competition and cooperation within the mammalian gut microbiome. Current 
+Biol. 29, R538-R544 (2019). 
+24. Vernocchi, P. et al. Network analysis of gut microbiome and metabolome to discover microbiota-linked biomarkers in patients 
+affected by non-small cell lung cancer. Int. J. Mol. Sci. 21, 8730 (2020). 
+25. Bauer, E. & Thiele, I. From network analysis to functional metabolic modeling of the human gut microbiota. MSystems 3, 00209-17 
+(2018). 
+26. Stein, R. R. et al. Ecological modeling from time-series inference: Insight into dynamics and stability of intestinal microbiota. PLoS 
+Comput. Biol. 9, e1003388. https:// doi. org/ 10. 1371/ journ al. pcbi. 10033 88 (2013). 
+27. Chen, L. et al. Gut microbial co-abundance networks show specificity in inflammatory bowel disease and obesity. Nat. Commun. 
+11, 1-12 (2020). 
+28. Friedman, J. & Alm, E. J. Inferring correlation networks from genomic survey data. PLoS Comput. Biol. 8(9), e1002687 (2012). 
+29. Weiss, S. et al. Correlation detection strategies in microbial data sets vary widely in sensitivity and precision. ISME J. 10, 1669-1681 
+(2016). 
+30. Karp, P. D. et al. The biocyc collection of microbial genomes and metabolic pathways. Brief. Bioinform. 20, 1085-1093 (2019). 
+31. Caspi, R. et al. The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of Pathway/Genome Databases. 
+Nucl. Acids Res. 42, D459-D471. https:// doi. org/ 10. 1093/ nar/ gkt11 03 (2013). 
+32. Franzosa, E. A. et al. Species-level functional profiling of metagenomes and metatranscriptomes. Nat. Methods 15, 962-968 (2018). 
+33. Cao, Y., Shen, J. & Ran, Z. H. Association between Faecalibacterium prausnitzii reduction and inflammatory bowel disease: A 
+meta-analysis and systematic review of the literature. Gastroenterol. Res. Pract. 2014 (2014). 
+34. Xi, M. et al. Effects of stachyose on intestinal microbiota and immunity in mice infected with enterotoxigenic Escherichia coli. J. 
+Funct. Foods 64, 103689 (2020). 
+35. Zhou, Y. & Zhi, F. Lower level of bacteroides in the gut microbiota is associated with inflammatory bowel disease: A meta-analysis. 
+BioMed. Res. Int.https:// doi. org/ 10. 1155/ 2016/ 58289 59 (2016). 
+36. Rhodes, J. M. The role of Escherichia coli in inflammatory bowel disease. Gut 56, 610-612 (2007). 
+37. Schirmer, M., Garner, A., Vlamakis, H. & Xavier, R. J. Microbial genes and pathways in inflammatory bowel disease. Nat. Rev. 
+Microbiol. 17, 497-511 (2019). 
+38. Keighley, M. R. et al. Influence of inflammatory bowel disease on intestinal microflora. Gut 19, 1099-1104 (1978). 
+39. Zhu, C. et al. Roseburia intestinalis inhibits interleukin-17 excretion and promotes regulatory T cells differentiation in colitis. Mol. 
+Med. Rep. 17, 7567-7574 (2018). 
+40. Hoffmann, T. W. et al. Microorganisms linked to inflammatory bowel disease-associated dysbiosis differentially impact host 
+physiology in gnotobiotic mice. ISME J. 10, 460-477 (2016). 
+41. IBDMDB -Home | IBDMDB. 
+42. Lloyd-Price, J. et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature 569, 655-662. https:// 
+doi. org/ 10. 1038/ s41586-019-1237-9 (2019). 
+43. KneadData -The Huttenhower Lab. 
+44. McIver, L. J. et al. BioBakery: A meta' omic analysis environment. Bioinformatics 34, 1235-1237. https:// doi. org/ 10. 1093/ bioin forma 
+tics/ btx754 (2018). 
+45. Tieri, P. et al. Network inference and reconstruction in bioinformatics. In Encyclopedia of Bioinformatics and Computational Biology 
+(2019). 
+46. MacMahon, M. & Garlaschelli, D. Community detection for correlation matrices. arXiv: 1311. 1924 (2013). 
+47. Nicolini, C., Forcellini, G., Minati, L. & Bifone, A. Scale-resolved analysis of brain functional connectivity networks with spectral 
+entropy. NeuroImage 211, 116603 (2020). 
+48. Balassa, B. Trade liberalisation and "revealed'' comparative advantage 1. Manch. Sch. 33, 99-123 (1965). 
+49. Bruno, M. BiCM: Python package for the computation of the Bipartite Configuration Model. (2020). 
+50. Squartini, T. & Garlaschelli, D. Analytical maximum-likelihood method to detect patterns in real networks. New J. Phys. 13, 83001 
+(2011). 
+51. Saracco, F., Di Clemente, R., Gabrielli, A. & Squartini, T. Randomizing bipartite networks: The case of the World Trade Web. Sci. 
+Rep. 5, 1-18. https:// doi. org/ 10. 1038/ srep1 0595 (2015). 
+52. Saracco, F. et al. Inferring monopartite projections of bipartite networks: An entropy-based approach. New J. Phys. 19, 53022 
+(2017). 
+53. Neal, Z. The backbone of bipartite projections: Inferring relationships from co-authorship, co-sponsorship, co-attendance and 
+other co-behaviors. Soc. Netw. 39, 84-97 (2014). 
+54. Benjamini, Y. & Hochberg, Y. Controlling the false discovery rate: A practical and powerful approach to multiple testing. J. R. Stat. 
+Soc. Ser. B (Methodol.) 57, 289-300 (1995). 
+
+Vol:.(1234567890) 
+
+Scientific Reports | 
+(2023) 13:19428 | 
+https://doi.org/10.1038/s41598-023-46184-y 
+
+www.nature.com/scientificreports/ 
+
+55. Freeman, L. C. A set of measures of centrality based on betweenness. Sociometry 40, 35-41 (1977). 
+56. Newman, M. E. J. Modularity and community structure in networks. Proc. Natl. Acad. Sci. 103, 8577-8582 (2006). 
+57. Blondel, V. D., Guillaume, J.-L., Lambiotte, R. & Lefebvre, E. Fast unfolding of communities in large networks. J. Stat. Mech. Theory 
+Exp. 2008, P10008 (2008). 
+58. Hall, C. V. et al. Co-existence of network architectures supporting the human gut microbiome. Iscience 22, 380-391 (2019). 
+59. Lancichinetti, A. & Fortunato, S. Community detection algorithms: A comparative analysis. Phys. Rev. E 80, 56117 (2009). 
+60. Newman, M. E. J. Analysis of weighted networks. Phys. Rev. E 70, 56131 (2004). 
+61. Fortunato, S. & Barthelemy, M. Resolution limit in community detection. Proc. Natl. Acad. Sci. 104, 36-41 (2007). 
+62. Aldecoa, R. & Marín, I. Surprise maximization reveals the community structure of complex networks. Sci. Rep. 3, 1-9 (2013). 
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Jun</forename>
+								 <middlename>Hyung</middlename>
+								 <surname>Park</surname>
+								 <marker>1,5</marker> ,
+							</persName>
+							<persName>
+								 <forename>Seungwoo</forename>
+								 <surname>Hong</surname>
+								 <marker>2,5</marker> ,
+							</persName>
+							<persName>
+								 <forename>Ok-Hyeon</forename>
+								 <surname>Kim</surname>
+								 <marker>3</marker> ,
+							</persName>
+							<persName>
+								 <forename>Chul-Hong</forename>
+								 <surname>Kim</surname>
+								 <marker>4</marker> ,
+							</persName>
+							<persName>
+								 <forename>Jinho</forename>
+								 <surname>Kim</surname>
+								 <marker>4</marker> ,
+							</persName>
+							<persName>
+								 <forename>Jung-Woong</forename>
+								 <surname>Kim</surname>
+								 <marker>4*</marker> ,
+								 <roleName>Sungguan</roleName>
+							</persName>
+							<persName>
+								 <surname>Hong</surname>
+								 <marker>2*</marker> &amp;
+								 <forename>Hyun</forename>
+								 <middlename>Jung</middlename>
+							</persName>
+							<persName>
+								 <surname>Lee</surname>
+								 <marker>1,3*</marker>
+								 <forename>Jun</forename>
+								 <middlename>Hyung</middlename>
+							</persName>
+							<persName>
+								 <surname>Park</surname> and Seungwoo
+								 <forename>Hong</forename>.
+								 <marker>*</marker>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

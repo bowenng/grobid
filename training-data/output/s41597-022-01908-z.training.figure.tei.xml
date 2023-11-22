@@ -1,0 +1,37 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41597-022-01908-z.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            d<lb/> d &apos;<lb/> d<lb/> d&apos;<lb/> d<lb/> d &apos;<lb/> Chunking<lb/> S eeding<lb/> E xtending<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>2 </label>
+ 
+            <figDesc>Schematic overview of the text alignment process. Each document is divided into chunks, matching<lb/> chunks are identified between documents, and matches are extended to whole reuse cases.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            10 0<lb/> Cumulative Ratio<lb/> (a)<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>3 </label>
+ 
+            <head>(</head>
+
+            <figDesc>a) cumulative ratio of reuse cases by normalized case length. (b) cumulative ratio of reuse cases by<lb/> normalized position.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

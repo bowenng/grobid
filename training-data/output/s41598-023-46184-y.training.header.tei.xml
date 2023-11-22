@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="s41598-023-46184-y"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	1<lb/>
+	<reference>Vol.:(0123456789)<lb/> Scientific Reports |<lb/> (2023) 13:19428<lb/> | https://doi.org/10.1038/s41598-023-46184-y<lb/></reference>
+
+	www.nature.com/scientificreports<lb/>
+	<docTitle>
+	<titlePart>Inflammatory bowel disease<lb/> biomarkers revealed by the human<lb/> gut microbiome network<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Mirko Hu 1 , Guido Caldarelli 2,3,4,5* &amp; Tommaso Gili 6<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">Inflammatory bowel diseases (IBDs) are complex medical conditions in which the gut microbiota is<lb/> attacked by the immune system of genetically predisposed subjects when exposed to yet unclear<lb/> environmental factors. The complexity of this class of diseases makes them suitable to be represented<lb/> and studied with network science. In this paper, the metagenomic data of control, Crohn&apos;s disease,<lb/> and ulcerative colitis subjects&apos; gut microbiota were investigated by representing this data as<lb/> correlation networks and co-expression networks. We obtained correlation networks by calculating<lb/> Pearson&apos;s correlation between gene expression across subjects. A percolation-based procedure<lb/> was used to threshold and binarize the adjacency matrices. In contrast, co-expression networks<lb/> involved the construction of the bipartite subjects-genes networks and the monopartite genes-genes<lb/> projection after binarization of the biadjacency matrix. Centrality measures and community detection<lb/> were used on the so-built networks to mine data complexity and highlight possible biomarkers of<lb/> the diseases. The main results were about the modules of Bacteroides, which were connected in the<lb/> control subjects&apos; correlation network, Faecalibacterium prausnitzii, where co-enzyme A became<lb/> central in IBD correlation networks and Escherichia coli, whose module has different patterns of<lb/> integration within the whole network in the different diagnoses.</div>
+
+	<note type="doctype">OPEN</note>
+
+	<byline>
+	<affiliation>1<lb/> Department of Medicine and Surgery, University of Parma,</affiliation>
+	</byline>
+
+	<address>43121 Parma, Italy.</address>
+
+	<byline>
+	<affiliation>2 Department of Molecular Science<lb/> and Nanosystems, Ca&apos; Foscari University of Venice,</affiliation>
+	</byline>
+
+	<address>30123 Venice, Italy.</address>
+
+	<byline>
+	<affiliation>3 Institute of Complex Systems, National<lb/> Research Council (ISC-CNR),</affiliation>
+	</byline>
+
+	<address>00185, Rome, Italy.</address>
+
+	<byline>
+	<affiliation>4 Fondazione per il Futuro delle Città,</affiliation>
+	</byline>
+
+	<address>FFC, 50133 Firenze,<lb/> Italy.</address>
+
+	<byline>
+	<affiliation>5 European Centre for Living Technology,</affiliation>
+	</byline>
+
+	<address>(ECLT), 30123 Venice, Italy.</address>
+
+	<byline>
+	<affiliation>6 Networks Unit, IMT School for<lb/> Advanced Studies Lucca,</affiliation>
+	</byline>
+
+	<address>55100 Lucca, Italy.</address>
+
+	* email:
+	<email>guido.caldarelli@unive.it<lb/></email>
+
+	<reference>Vol:.(1234567890)<lb/> Scientific Reports |<lb/> (2023) 13:19428 |<lb/> https://doi.org/10.1038/s41598-023-46184-y<lb/> Vol.:(0123456789)<lb/> Scientific Reports<lb/> |<lb/> (2023) 13:19428 |<lb/></reference>
+
+	<idno>https://doi.org/10.1038/s41598-023-46184-y<lb/></idno>
+
+	<note type="submission">Received: 16 August 2022; Accepted: 29 October 2023<lb/></note>
+
+	Additional information<lb/> Supplementary Information The online version contains supplementary material available at https:// doi. org/<lb/> 10. 1038/ s41598-023-46184-y.<lb/> Correspondence and requests for materials should be addressed to G.C.<lb/> Reprints and permissions information is available at www.nature.com/reprints.<lb/> Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and<lb/> institutional affiliations.<lb/>
+	<note type="copyright">Open Access This article is licensed under a Creative Commons Attribution 4.0 International<lb/> License, which permits use, sharing, adaptation, distribution and reproduction in any medium or<lb/> format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the<lb/> Creative Commons licence, and indicate if changes were made. The images or other third party material in this<lb/> article are included in the article&apos;s Creative Commons licence, unless indicated otherwise in a credit line to the<lb/> material. If material is not included in the article&apos;s Creative Commons licence and your intended use is not<lb/> permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from<lb/> the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.<lb/> © The Author(s) 2023</note>
+
+		</front>
+	</text>
+</tei>

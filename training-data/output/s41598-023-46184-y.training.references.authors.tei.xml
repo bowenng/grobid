@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Sender</surname>, <forename>R</forename>., <surname>Fuchs</surname>, <forename>S</forename>. &amp; <surname>Milo</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Thursby</surname>, <forename>E</forename>. &amp; <surname>Juge</surname>, <forename>N</forename>.</author>
+
+						<author><surname>Tanaka</surname>, <forename>M</forename>. &amp; <surname>Nakayama</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Ma</surname>, <forename>Y</forename>., <surname>Chen</surname>, <forename>H</forename>., <surname>Lan</surname>, <forename>C</forename>. &amp; <surname>Ren</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Farré-Maduell</surname>, <forename>E</forename>. &amp; <surname>Casals-Pascual</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Natividad</surname>, <forename>J</forename>. <middlename>M</middlename>. <middlename>M</middlename>. &amp; <surname>Verdu</surname>, <forename>E</forename>. <middlename>F</middlename>.</author>
+
+						<author><surname>Sommer</surname>, <forename>F</forename>. &amp; <surname>Bäckhed</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Belizário</surname>, <forename>J</forename>. <middlename>E</middlename>. &amp; <surname>Faintuch</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Borody</surname>, <forename>T</forename>. <middlename>J</middlename>. &amp; <surname>Khoruts</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Singh</surname>, <forename>S</forename>. et al.</author>
+
+						<author><surname>Ananthakrishnan</surname>, <forename>A</forename>. <middlename>N</middlename>., <surname>Xavier</surname>, <forename>R</forename>. <middlename>J</middlename>. &amp; <surname>Podolsky</surname>, <forename>D</forename>. <middlename>K</middlename>.</author>
+
+						<author><surname>Manichanh</surname>, <forename>C</forename>., <surname>Borruel</surname>, <forename>N</forename>., <surname>Casellas</surname>, <forename>F</forename>. &amp; <surname>Guarner</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Kirsner</surname>, <forename>J</forename>. <middlename>B</middlename>.</author>
+
+						<author><surname>Kaplan</surname>, <forename>G</forename>. <middlename>G</middlename>.</author>
+
+						<author><surname>Xavier</surname>, <forename>R</forename>. <middlename>J</middlename>. &amp; <surname>Podolsky</surname>, <forename>D</forename>. <middlename>K</middlename>.</author>
+
+						<author><surname>Lees</surname>, <forename>C</forename>. <middlename>W</middlename>. &amp; <surname>Satsangi</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Zhang</surname>, <forename>Y.-Z</forename>. &amp; <surname>Li</surname>, <forename>Y.-Y</forename></author>
+
+						<author><surname>Fiocchi</surname>, <forename>C</forename>. &amp; <surname>Iliopoulos</surname>, <forename>D</forename>.</author>
+
+						<author><surname>De Souza</surname>, <forename>H</forename>. <middlename>S</middlename>. <middlename>P</middlename>., <surname>Fiocchi</surname>, <forename>C</forename>. &amp; <surname>Iliopoulos</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Barabási</surname>, <forename>A.-L</forename>., <surname>Gulbahce</surname>, <forename>N</forename>. &amp; <surname>Loscalzo</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Faust</surname>, <forename>K</forename>. et al.</author>
+
+						<author><surname>Bucci</surname>, <forename>V</forename>. et al.</author>
+
+						<author><surname>Coyte</surname>, <forename>K</forename>. <middlename>Z</middlename>. &amp; <surname>Rakoff-Nahoum</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Vernocchi</surname>, <forename>P</forename>. et al.</author>
+
+						<author><surname>Bauer</surname>, <forename>E</forename>. &amp; <surname>Thiele</surname>, <forename>I</forename>.</author>
+
+						<author><surname>Stein</surname>, <forename>R</forename>. <middlename>R</middlename>. et al.</author>
+
+						<author><surname>Chen</surname>, <forename>L</forename>. et al.</author>
+
+						<author><surname>Friedman</surname>, <forename>J</forename>. &amp; <surname>Alm</surname>, <forename>E</forename>. <middlename>J</middlename>.</author>
+
+						<author><surname>Weiss</surname>, <forename>S</forename>. et al.</author>
+
+						<author><surname>Karp</surname>, <forename>P</forename>. <middlename>D</middlename>. et al.</author>
+
+						<author><surname>Caspi</surname>, <forename>R</forename>. et al.</author>
+
+						<author><surname>Franzosa</surname>, <forename>E</forename>. <middlename>A</middlename>. et al.</author>
+
+						<author><surname>Cao</surname>, <forename>Y</forename>., <surname>Shen</surname>, <forename>J</forename>. &amp; <surname>Ran</surname>, <forename>Z</forename>. <middlename>H</middlename>.</author>
+
+						<author><surname>Xi</surname>, <forename>M</forename>. et al.</author>
+
+						<author><surname>Zhou</surname>, <forename>Y</forename>. &amp; <surname>Zhi</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Rhodes</surname>, <forename>J</forename>. <middlename>M</middlename>.</author>
+
+						<author><surname>Schirmer</surname>, <forename>M</forename>., <surname>Garner</surname>, <forename>A</forename>., <surname>Vlamakis</surname>, <forename>H</forename>. &amp; <surname>Xavier</surname>, <forename>R</forename>. <middlename>J</middlename>.</author>
+
+						<author><surname>Keighley</surname>, <forename>M</forename>. <middlename>R</middlename>. et al.</author>
+
+						<author><surname>Zhu</surname>, <forename>C</forename>. et al.</author>
+
+						<author><surname>Hoffmann</surname>, <forename>T</forename>. <middlename>W</middlename>. et al.</author>
+
+						<author><surname>IBDMDB -Home</surname> <forename>|</forename> <surname>IBDMDB</surname></author>
+
+						<author><surname>Lloyd-Price</surname>, <forename>J</forename>. et al.</author>
+
+						<author><surname>McIver</surname>, <forename>L</forename>. <middlename>J</middlename>. et al.</author>
+
+						<author><surname>Tieri</surname>, <forename>P</forename>. et al.</author>
+
+						<author><surname>MacMahon</surname>, <forename>M</forename>. &amp; <surname>Garlaschelli</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Nicolini</surname>, <forename>C</forename>., <surname>Forcellini</surname>, <forename>G</forename>., <surname>Minati</surname>, <forename>L</forename>. &amp; <surname>Bifone</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Balassa</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Bruno</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Squartini</surname>, <forename>T</forename>. &amp; <surname>Garlaschelli</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Saracco</surname>, <forename>F</forename>., <surname>Di Clemente</surname>, <forename>R</forename>., <surname>Gabrielli</surname>, <forename>A</forename>. &amp; <surname>Squartini</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Saracco</surname>, <forename>F</forename>. et al.</author>
+
+						<author><surname>Neal</surname>, <forename>Z</forename>.</author>
+
+						<author><surname>Benjamini</surname>, <forename>Y</forename>. &amp; <surname>Hochberg</surname>, <forename>Y</forename>.</author>
+
+						<author><surname>Freeman</surname>, <forename>L</forename>. <middlename>C</middlename>.</author>
+
+						<author><surname>Newman</surname>, <forename>M</forename>. <middlename>E</middlename>. <middlename>J</middlename>.</author>
+
+						<author><surname>Blondel</surname>, <forename>V</forename>. <middlename>D</middlename>., <surname>Guillaume</surname>, <forename>J.-L</forename>., <surname>Lambiotte</surname>, <forename>R</forename>. &amp; <surname>Lefebvre</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Hall</surname>, <forename>C</forename>. <middlename>V</middlename>. et al.</author>
+
+						<author><surname>Lancichinetti</surname>, <forename>A</forename>. &amp; <surname>Fortunato</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Newman</surname>, <forename>M</forename>. <middlename>E</middlename>. J</author>
+
+						<author><surname>Fortunato</surname>, <forename>S</forename>. &amp; <surname>Barthelemy</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Aldecoa</surname>, <forename>R</forename>. &amp; <surname>Marín</surname>, <forename>I</forename>.</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

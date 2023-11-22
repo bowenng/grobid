@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="s41597-022-01908-z"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	1<lb/>
+	<reference>Scientific Data |<lb/> (2023) 10:58 | https://doi.org/10.1038/s41597-022-01908-z<lb/> www.nature.com/scientificdata<lb/></reference>
+
+	<docTitle>
+	<titlePart>A large dataset of scientific text<lb/> reuse in Open-access publications<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Lukas Gienapp 1 ✉ , Wolfgang Kircheis 1,3 , Bjarne Sievers 1 , Benno Stein 2 &amp; Martin Potthast 1,3 ✉<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">We present the Webis-STEREO-21 dataset, a massive collection of Scientific Text Reuse in Open-access<lb/> publications. It contains 91 million cases of reused text passages found in 4.2 million unique open-<lb/>access publications. Cases range from overlap of as few as eight words to near-duplicate publications<lb/> and include a variety of reuse types, ranging from boilerplate text to verbatim copying to quotations<lb/> and paraphrases. Featuring a high coverage of scientific disciplines and varieties of reuse, as well<lb/> as comprehensive metadata to contextualize each case, our dataset addresses the most salient<lb/> shortcomings of previous ones on scientific writing. The Webis-STEREO-21 does not indicate if a reuse<lb/> case is legitimate or not, as its focus is on the general study of text reuse in science, which is legitimate<lb/> in the vast majority of cases. It allows for tackling a wide range of research questions from different<lb/> scientific backgrounds, facilitating both qualitative and quantitative analysis of the phenomenon as<lb/> well as a first-time grounding on the base rate of text reuse in scientific publications.<lb/></div>
+
+	<byline>
+	<affiliation>1 Text Mining and Retrieval Group, Leipzig University,</affiliation>
+	</byline>
+
+	<address>Leipzig, DE-04109, Germany.</address>
+
+	<byline>
+	<affiliation>2 Web Technology and<lb/> Information Systems Group, Bauhaus-Universität Weimar,</affiliation>
+	</byline>
+
+	<address>Weimar, DE-99423, Germany.</address>
+
+	<byline>
+	<affiliation>3 ScaDS.AI, Center<lb/> for Scalable Data Analytics and Artificial Intelligence,</affiliation>
+	</byline>
+
+	<address>Leipzig, DE-04105, Germany.</address>
+
+	✉ e-mail:
+	<email>lukas.gienapp@<lb/> uni-leipzig.de</email>
+
+	;
+	<email>martin.potthast@uni-leipzig.de<lb/></email>
+
+	<note type="doctype">Data DeScriPtOr OPeN<lb/></note>
+
+	<note type="submission">Received: 8 September 2022; Accepted: 14 December 2022;<lb/></note>
+
+	Published: xx xx xxxx references<lb/> Additional information<lb/> Correspondence and requests for materials should be addressed to L.G. or M.P.<lb/> Reprints and permissions information is available at www.nature.com/reprints.<lb/> Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and<lb/> institutional affiliations.<lb/>
+	<note type="copyright">Open Access This article is licensed under a Creative Commons Attribution 4.0 International<lb/> License, which permits use, sharing, adaptation, distribution and reproduction in any medium or<lb/> format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-<lb/>ative Commons license, and indicate if changes were made. The images or other third party material in this<lb/> article are included in the article&apos;s Creative Commons license, unless indicated otherwise in a credit line to the<lb/> material. If material is not included in the article&apos;s Creative Commons license and your intended use is not per-<lb/>mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the<lb/> copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.<lb/> © The Author(s) 2023</note>
+
+		</front>
+	</text>
+</tei>

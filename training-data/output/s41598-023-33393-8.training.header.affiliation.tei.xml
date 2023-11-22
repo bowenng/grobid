@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>
+							<lb/>
+							<orgName type="department">Department of Global Innovative Drugs</orgName>,
+							<orgName type="institution">Graduate School of Chung-Ang University</orgName>,
+							<address>
+								<settlement>Seoul</settlement>
+								<postCode>06974</postCode>,
+								<country>South<lb/> Korea.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>
+							<orgName type="department">Department of Chemistry</orgName>,
+							<orgName type="department">College of Natural Sciences</orgName>,
+							<orgName type="institution">Chung-Ang University</orgName>,
+							<address>
+								<settlement>Seoul</settlement>
+								<postCode>06974</postCode>,
+								<country>South<lb/> Korea.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>
+							<orgName type="department">Department of Anatomy and Cell Biology</orgName>,
+							<orgName type="department">College of Medicine</orgName>,
+							<orgName type="institution">Chung-Ang University</orgName>,
+							<address>
+								<settlement>Seoul</settlement>
+								<postCode>06974</postCode>,
+								<country>South<lb/> Korea.</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>4</marker>
+							<orgName type="department">Department of Life Sciences</orgName>,
+							<orgName type="institution">Chung-Ang University</orgName>,
+							<address>
+								<settlement>Seoul</settlement>
+								<postCode>06974</postCode>,
+								<country>South Korea.</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>
