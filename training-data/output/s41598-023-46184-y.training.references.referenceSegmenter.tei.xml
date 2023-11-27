@@ -4,7 +4,6 @@
     </teiHeader>
     <text xml:lang="en">
         <listBibl>
-        <bibl>Vol:.(1234567890)<lb/> Scientific Reports |<lb/> (2023) 13:19428 |<lb/> https://doi.org/10.1038/s41598-023-46184-y<lb/> Vol:.(1234567890)<lb/> Scientific Reports |<lb/> (2023) 13:19428 |<lb/> https://doi.org/10.1038/s41598-023-46184-y<lb/> www.nature.com/scientificreports/<lb/> Finally, in the last step of the algorithm, in order to understand which p-values were significant, a false-discovery<lb/> rate or FDR has been adopted to take into account the fact that we were testing multiple hypotheses 54 .<lb/> </bibl>
 
         References<lb/> 
         <bibl><label>1</label>. Sender, R., Fuchs, S. &amp; Milo, R. Revised estimates for the number of human and bacteria cells in the body. PLoS Biol. 14, e1002533<lb/> (2016).<lb/> </bibl>

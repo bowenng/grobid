@@ -89,7 +89,7 @@ grobid:
         # wapiti training parameters, they will be used at training time only
         epsilon: 0.0000001
         window: 50
-        nbMaxIterations: 2000
+        nbMaxIterations: 100
       delft:
         # deep learning parameters
         architecture: "BidLSTM_CRF_FEATURES"

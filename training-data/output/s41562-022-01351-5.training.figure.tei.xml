@@ -1,0 +1,123 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_s41562-022-01351-5.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            i<lb/> i<lb/> j<lb/> L citation<lb/> j<lb/> L distortion<lb/> L T<lb/> text<lb/> i<lb/> j<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>1 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>the construction of the multiplex network, the citational well.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Fig. </head>
+ 
+            <label>2 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>relationship between citations and text over time. a, The average number of countries present in both the international text similarity network and<lb/> the international citation network over time from 1980 to 2012, with trend lines for each field type. b, The average of statistically significant β coefficients<lb/> from each field&apos;s yearly QAP model for citations plotted on the y axis and over time on the x axis from 1980 to 2012. The shading around the trends<lb/> denotes the standard errors across fields. c, The trends plotted in b, but parsed by the type of field. The shading around the trends denotes the grand<lb/> standard errors across β coefficients.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <figDesc>4a expands the plots in Fig. 3a, while Fig. 4b expands the<lb/> plots in Fig. 3b, but the trends are now averaged by research area.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0<lb/> 0.5<lb/> 1.0<lb/> 1.5<lb/> 1980<lb/> 1990<lb/> 2000<lb/> 2010<lb/> 2020<lb/> Year<lb/> Average citational distortion<lb/> (standard deviations)<lb/> a<lb/> Average citational distortion<lb/> (standard deviations)<lb/> b<lb/> 0.05<lb/> 0<lb/> 0.05<lb/> 1980<lb/> 1990<lb/> 2000<lb/> 2010<lb/> Year<lb/> Periphery<lb/> Core<lb/> China<lb/> Germany<lb/> Japan<lb/> Netherlands<lb/> Switzerland<lb/> United Kingdom<lb/> United States<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>3 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Comparing global citational distortion over time. a, The average national citational distortion in L distortion plotted across fields on the y axis and over<lb/> time on the x axis for select countries. b,</figDesc>
+        </figure>
+
+
+        <figure>
+
+            China<lb/> Germany<lb/> Japan<lb/> Netherlands<lb/> Switzerland<lb/> United Kingdom<lb/> United States<lb/> China<lb/> Germany<lb/> Japan<lb/> Netherlands<lb/> Switzerland<lb/> United Kingdom<lb/> United States<lb/> China<lb/> Germany<lb/> Japan<lb/> Netherlands<lb/> Switzerland<lb/> United Kingdom<lb/> United States<lb/> China<lb/> Germany<lb/> Japan<lb/> Netherlands<lb/> Switzerland<lb/> United Kingdom<lb/> United States<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 1980<lb/> 2000<lb/> 2020<lb/> 1980<lb/> 2000<lb/> 2020<lb/> 1980<lb/> 2000<lb/> 2020<lb/> 1980<lb/> 2000<lb/> 2020<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 1.0<lb/> 1.5<lb/> Year<lb/> Average citational distortion<lb/> (standard deviations)<lb/> a<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 1980<lb/> 1990<lb/> 2000<lb/> 2010 1980<lb/> 1990<lb/> 2000<lb/> 2010 1980<lb/> 1990<lb/> 2000<lb/> 2010 1980<lb/> 1990<lb/> 2000<lb/> 2010<lb/> 0.10<lb/> 0.05<lb/> 0<lb/> 0.05<lb/> 0.10<lb/> 0.15<lb/> Year<lb/> Average citational distortion<lb/> (standard deviations)<lb/> Periphery<lb/> Core<lb/> b<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>4 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Comparing global citational distortion by the type of field. a,b, The trends plotted in Fig.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            R = 0.32<lb/> P = 0.25<lb/> R = 0.75<lb/> P = 0.0014<lb/> R = 0.52<lb/> P = 0.034<lb/> R = 0.14<lb/> P = 0.66<lb/> R = 0.68<lb/> P = 2.5 × 10 -5<lb/> R = 0.66<lb/> P = 2 × 10 -5<lb/> R = 0.76<lb/> P = 1.9 × 10 -8<lb/> R = 0.66<lb/> P = 0.00029<lb/> R = 0.75<lb/> P = 0.0045<lb/> R = 0.27<lb/> P = 0.52<lb/> R = 0.46<lb/> P = 0.13<lb/> R = 0.4<lb/> P = 0.28<lb/> R = -0.16<lb/> P = 0.42<lb/> R = 0.46<lb/> P = 0.025<lb/> R = 0.25<lb/> P = 0.19<lb/> R = 0.27<lb/> P = 0.27<lb/> Asia<lb/> Europe<lb/> Latin America<lb/> and the Caribbean<lb/> Africa and the<lb/> Middle East<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 1.0<lb/> 0.5<lb/> 0<lb/> 0.5 1.0<lb/> 0.5<lb/> 0<lb/> 0.5 1.0<lb/> 0.5<lb/> 0<lb/> 0.5 1.0<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 1.0<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 1.0<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 1.0<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 1.0<lb/> Average citational distortion (standard deviations)<lb/> 2000<lb/> Average citational distortion (standard deviations)<lb/> 2012<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>5 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Comparing citational distortion between 2000 and 2012. The average distortion for countries in the year 2012, parsed by region and by the type<lb/> of discipline. The trends for all countries in the years 2000 and 2012 are plotted on the x axis and y axis, respectively, but parsed by the type of field and by<lb/> transnational region. R refers to the Pearson&apos;s product-moment correlation.<lb/> </figDesc>
+
+            <lb/> Articles<lb/> NATure HuMAN BeHAviOur<lb/> 2000<lb/> 2012<lb/> 2000<lb/> 2012<lb/> 2000<lb/> 2012<lb/> 2000<lb/> 2012<lb/> 5.0<lb/> 10.0<lb/> 15.0<lb/> 20.0<lb/> 30.0<lb/> 35.0<lb/> 40.0<lb/> 45.0<lb/> Percentage of countries (%)<lb/> Periphery<lb/> Core<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> Overcited<lb/> Undercited<lb/> 9.09% N = 4<lb/> 0.13 (0.04)</content>
+        </figure>
+
+
+        <figure>
+
+            Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> 0<lb/> 0.2<lb/> 0.4<lb/> 0.6<lb/> Average citational<lb/> distortion (standard deviations)<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>7 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Comparing citational distortion by transnational region in 2012. The average distortion of countries mapped within transnational regions-Africa<lb/> and the Middle East, Latin America and the Caribbean, Asia, North America, and Oceania-and by the type of field.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 0.3<lb/> 0<lb/> 0.3<lb/> 0.6<lb/> Average citational<lb/> distortion (standard<lb/> deviations)<lb/> a<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 0.5<lb/> 0<lb/> 0.5<lb/> 1.0<lb/> Average citational<lb/> distortion (standard<lb/> deviations)<lb/> b<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 0.50<lb/> 0.25<lb/> 0<lb/> 0.25<lb/> Average citational<lb/> distortion (standard<lb/> deviations)<lb/> c<lb/> Biomedical, behavioural<lb/> and ecological sciences<lb/> Engineering and<lb/> computational sciences<lb/> Physical and<lb/> mathematical sciences<lb/> Social<lb/> sciences<lb/> 0.50<lb/> 0.25<lb/> 0<lb/> 0.25<lb/> 0.50<lb/> Average citational<lb/> distortion (standard<lb/> deviations)<lb/> d<lb/> </content>
+<lb/> 
+            <head>Fig. </head>
+ 
+            <label>8 </label>
+ 
+            <head>| </head>
+ 
+            <figDesc>Citational distortion within transnational regions in 2012. a-d, The average distortion for individual countries in Europe (a), Asia (b), Latin<lb/> America and the Caribbean (c), and Africa and the Middle East (d) in 2012. Note that the colour scale varies by region to highlight regional trends that are<lb/> not visible when using a global colour scale.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Nature Research Reporting Summary linked to this article.<lb/> 1<lb/> nature research | reporting summary<lb/> April 2020<lb/> Corresponding author(s): Charles J. Gomez<lb/> Last updated by author(s): Mar 3, 2022<lb/> Reporting Summary<lb/> Nature Research wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency<lb/> in reporting. For further information on Nature Research policies, see our Editorial Policies and the Editorial Policy Checklist.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

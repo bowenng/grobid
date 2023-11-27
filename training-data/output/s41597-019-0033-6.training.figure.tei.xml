@@ -19,6 +19,12 @@
 
         <figure>
 
+            <figDesc>collected the prize-winning papers for Nobel laureates in Physics<lb/> (1995-2013), Chemistry (1998-2013), Medicine (2006-2013), and Economics (1995-2013). Our data collection<lb/> also takes into account these existing efforts.</figDesc>
+        </figure>
+
+
+        <figure>
+
             Matched Nobel lecture<lb/> paper in MAG dataset<lb/> Prize-winning paper<lb/> Prize motivation<lb/> Title of Nobel Lecture<lb/> </content>
 <lb/> 
             <head>Fig. </head>
@@ -31,9 +37,7 @@
 
         <figure>
 
-            MAG database<lb/> papers<lb/> a<lb/> b<lb/> c<lb/> Author profile MAG </content>
- 
-            <figDesc>dataset<lb/> with the same name of Nobel laureates<lb/> profile<lb/> Identified ground truth papers<lb/> from multiple sources as seed papers<lb/> Fig.</figDesc>
+            MAG database<lb/> papers<lb/> a<lb/> b</content>
         </figure>
 
 

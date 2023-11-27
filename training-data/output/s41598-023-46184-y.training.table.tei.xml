@@ -133,7 +133,7 @@
 
             <head>. </head>
  
-            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) projected<lb/> network uncommon pathways.<lb/> </figDesc>
+            <figDesc>Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) projected<lb/> network with uncommon pathways.<lb/> </figDesc>
 <lb/> 
             <table>Node<lb/> Pathway<lb/> Betweenness centrality<lb/> 27<lb/> ARGSYNBSUB-PWY|BIFIDOBACTERIUM_LONGUM<lb/> 0.153<lb/> 1309<lb/> VALSYN-PWY|ENTEROCLOSTER_BOLTEAE<lb/> 0.148<lb/> 237<lb/> NONOXIPENT-PWY|ENTEROCLOSTER_BOLTEAE<lb/> 0.142<lb/> 1044<lb/> PWY-7221|BIFIDOBACTERIUM_LONGUM<lb/> 0.080<lb/> 878<lb/> PWY-6703|LACHNOSPIRACEAE_BACTERIUM_5_1_63FAA<lb/> 0.070<lb/> 1253<lb/> SALVADEHYPOX-PWY|RUMINOCOCCUS_TORQUES<lb/> 0.042<lb/> 891<lb/> PWY-6737|CLOSTRIDIUM_LEPTUM<lb/> 0.041<lb/> 660<lb/> PWY-6151|RUMINOCOCCUS_OBEUM<lb/> 0.037<lb/> 355<lb/> PWY-2942|LACHNOSPIRACEAE_BACTERIUM_5_1_63FAA<lb/> 0.036<lb/> 55<lb/> BRANCHED-CHAIN-AA-SYN-PWY|BIFIDOBACTERIUM_LONGUM 0.033<lb/> </table>
 <lb/> 

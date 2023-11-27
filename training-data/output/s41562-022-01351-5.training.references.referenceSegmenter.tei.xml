@@ -1,0 +1,46 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+        <bibl><label>1</label>. Doi, H., Heeren, A. &amp; Maurage, P. Scientific activity is a better predictor of<lb/> Nobel award chances than dietary habits and economic factors. PLoS ONE 9,<lb/> e92612 (2014).<lb/> </bibl>
+        <bibl><label>2</label>. Collyer, F. M. Global patterns in the publishing of academic knowledge:<lb/> Global North, Global South. Curr. Sociol. 66, 56-73 (2018).<lb/> </bibl>
+        <bibl><label>3</label>. A More Research-Intensive and Integrated European Research Area Science,<lb/> Technology and Competitiveness Key Figures Report 2008/2009 (EU<lb/> Commission, 2008); http://aei.pitt.edu/46028/<lb/> </bibl>
+        <bibl><label>4</label>. Shu, F. et al. The role of Web of Science publications in China&apos;s tenure system.<lb/> Scientometrics 122, 1683-1695 (2020).<lb/> </bibl>
+        <bibl><label>5</label>. Nielsen, M. W. &amp; Andersen, J. P. Global citation inequality is on the rise.<lb/> Proc. Natl. Acad. Sci. USA 118, e2012208118 (2021).<lb/> </bibl>
+        <bibl><label>6</label>. Merton, R. K. The Matthew effect in science: the reward and communication<lb/> systems of science are considered. Science 159, 56-63 (1968).<lb/> </bibl>
+        <bibl><label>7</label>. Latour, B. Science in Action: How to Follow Scientists and Engineers Through<lb/> Society (Harvard Univ. Press, 1987).<lb/> </bibl>
+        <bibl><label>8</label>. Kullback, S. &amp; Leibler, R. A. On information and sufficiency. Ann. Math. Stat.<lb/> 22, 79-86 (1951).<lb/> </bibl>
+        <bibl><label>9</label>. Ramage, D., Hall, D., Nallapati, R. &amp; Manning, C. D. Labeled LDA: a<lb/> supervised topic model for credit attribution in multi-labeled corpora. In<lb/> Proc. 2009 Conference on Empirical Methods in Natural Language Processing<lb/> Vol. 1 (Eds. Koehn, P. and Mihalcea, R.) 248-256 (Association for<lb/> Computational Linguistics, 2009).<lb/> </bibl>
+        <bibl><label>10</label>. Fortunato, S. et al. Science of science. Science 359, eaao0185 (2018).<lb/> </bibl>
+        <bibl><label>11</label>. Cohan, A., Feldman, S., Beltagy, I., Downey, D. &amp; Weld, D. SPECTER:<lb/> document-level representation learning using citation-informed transformers.<lb/> In Proc. 58th Annual Meeting of the Association for Computational Linguistics<lb/> (Eds. Jurafsky, D., Chai, J., et al.) 2270-2282 (Association for Computational<lb/> Linguistics, 2020); https://doi.org/10.18653/v1/2020.acl-main.207<lb/> </bibl>
+        <bibl><label>12</label>. Vilhena, D. et al. Finding cultural holes: how structure and culture diverge in<lb/> networks of scholarly communication. Sociol. Sci. 1, 221-238 (2014).<lb/> </bibl>
+        <bibl><label>13</label>. Altmann, E. G., Dias, L. &amp; Gerlach, M. Generalized entropies and the<lb/> similarity of texts. J. Stat. Mech. 2017, 014002 (2017).<lb/> </bibl>
+        <bibl><label>14</label>. Petersen, A. M., Pan, R. K., Pammolli, F. &amp; Fortunato, S. Methods to account<lb/> for citation inflation in research evaluation. Res. Policy 48, 1855-1865 (2019).<lb/> </bibl>
+        <bibl><label>15</label>. Dias, L., Gerlach, M., Scharloth, J. &amp; Altmann, E. G. Using text analysis to<lb/> quantify the similarity and evolution of scientific disciplines. R. Soc. Open Sci.<lb/> 5, 171545 (2018).<lb/> </bibl>
+        <bibl><label>16</label>. Lu, C. et al. Analyzing linguistic complexity and scientific impact. J. Informetr.<lb/> 13, 817-829 (2019).<lb/> </bibl>
+        <bibl><label>17</label>. Glenisson, P., Glänzel, W., Janssens, F. &amp; De Moor, B. Combining full text and<lb/> bibliometric information in mapping scientific disciplines. Inf. Process.<lb/> Manage. 41, 1548-1572 (2005).<lb/> </bibl>
+        <bibl><label>18</label>. Janssens, F., Glänzel, W. &amp; De Moor, B. A hybrid mapping of information<lb/> science. Scientometrics 75, 607-631 (2008).<lb/> </bibl>
+        <bibl><label>19</label>. Dekker, D., Snijders, T. A. B. &amp; Krackhardt, D. Sensitivity of MRQAP<lb/> tests to collinearity and autocorrelation conditions. Psychometrika 72,<lb/> 563-581 (2007).<lb/> </bibl>
+        <bibl><label>20</label>. Leydesdorff, L. &amp; Wagner, C. S. International collaboration in science and the<lb/> formation of a core group. J. Informetr. 2, 317-325 (2008).<lb/> </bibl>
+        <bibl><label>21</label>. Zelnio, R. Identifying the global core-periphery structure of science.<lb/> Scientometrics 91, 601-615 (2011).<lb/> </bibl>
+        <bibl><label>22</label>. Becker, R. A. &amp; Wilks, A. R. R version by R. Brownrigg. Enhancements by T.<lb/> P. Minka &amp; A. Deckmyn. maps: Draw geographical maps. R package v 3.4.0<lb/> (2018).<lb/> </bibl>
+        <bibl><label>23</label>. Xie, Y., Zhang, C. &amp; Lai, Q. China&apos;s rise as a major contributor to science and<lb/> technology. Proc. Natl. Acad. Sci. USA 111, 9437-9442 (2014).<lb/> </bibl>
+        <bibl><label>24</label>. Zhou, P. &amp; Leydesdorff, L. The emergence of China as a leading nation in<lb/> science. Res. Policy 35, 83-104 (2006).<lb/> </bibl>
+        <bibl><label>25</label>. He, T., Zhang, J. &amp; Teng, L. Basic research in biochemistry and molecular<lb/> biology in China: a bibliometric analysis. Scientometrics 62, 249-259 (2005).<lb/> </bibl>
+        <bibl><label>26</label>. Kuhn, T. S. The Structure of Scientific Revolutions (Univ. of Chicago Press,<lb/> 1962).<lb/> </bibl>
+        <bibl><label>27</label>. Gomez, C. J. &amp; Lazer, D. M. J. Clustering knowledge and dispersing abilities<lb/> enhances collective problem solving in a network. Nat. Commun. 10,<lb/> 5146 (2019).<lb/> </bibl>
+        <bibl><label>28</label>. Annan, K. A challenge to the world&apos;s scientists. Science 299, 1485-1486 (2003).<lb/> </bibl>
+        <bibl><label>29</label>. Holmgren, M. &amp; Schnitzer, S. A. Science on the rise in developing countries.<lb/> PLoS Biol. 2, e1 (2004).<lb/> </bibl>
+        <bibl><label>30</label>. Monroe-White, T. &amp; Woodson, T. S. Inequalities in scholarly knowledge:<lb/> public value failures and their impact on global science. Afr. J. Sci. Technol.<lb/> Innov. Dev. 8, 178-186 (2016).<lb/> </bibl>
+        <bibl><label>31</label>. Tilly, C. Unequal access to scientific knowledge. J. Hum. Dev. 8,<lb/> 245-258 (2007).<lb/> </bibl>
+        <bibl><label>32</label>. Moed, H. F., Burger, W. J. M., Frankfort, J. G. &amp; Van Raan, A. F. J. The use of<lb/> bibliometric data for the measurement of university research performance.<lb/> Res. Policy 14, 131-149 (1985).<lb/> </bibl>
+        <bibl><label>33</label>. Leydesdorff, L., Bornmann, L., Comins, J. A. &amp; Milojević, S. Citations:<lb/> indicators of quality? The impact fallacy. Front. Res. Metr. Anal. 1,<lb/> 1-15 (2016).<lb/> </bibl>
+        <bibl><label>34</label>. Huang, F. Quality deficit belies the hype. Nature 564, S70-S71 (2018).<lb/> </bibl>
+        <bibl><label>35</label>. Rose, S., Engel, D., Cramer, N. &amp; Cowley, W. in Text Mining: Applications and<lb/> Theory (eds Berry, M. W. &amp; Kogan, J.) 1-20 (John Wiley &amp; Sons, 2010);<lb/> https://doi.org/10.1002/9780470689646.ch1<lb/> </bibl>
+        <bibl><label>36</label>. Coxhead, A. A new academic word list. TESOL Q. 34, 213-238 (2000).</bibl>
+        </listBibl>
+    </text>
+</tei>
+

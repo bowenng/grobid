@@ -390,7 +390,7 @@ The three files named "Physics publication record, " "Chemistry publication reco
 record" contain the publication records of Nobel laureates for Physics, Chemistry, and Medicine, respectively. 
 Each file includes the following data fields (Table 3): "Laureate ID, " "Laureate name, " "Prize year, " "Title, " "Pub 
 year, " "Paper ID, " "DOI, " "Journal, " "Affiliation, " and "Is prize-winning paper. " Each data field is self-explanatory 
-by its name, and fields with the same name as other tables follow the same data format and can be linked across 
+by its name, and fields with the same name as other tables follow the same data and can be linked across 
 tables. "DOI" and "Journal" refer to the DOI and the published journal for each collected paper. "Affiliation" refers 
 to the Nobel laureate's affiliation while publishing the paper. "Is prize-winning paper" shows whether the paper is 
 prize-winning or not. If the paper is a prize-winning paper, the value of the item "Is prize-winning paper" is set 
@@ -407,12 +407,12 @@ papers
 a 
 b 
 
-c 
 
-Author profile MAG dataset 
+
+Author profile in MAG dataset 
 with the same name of Nobel laureates 
 
-profile 
+noise profile 
 
 Identified ground truth papers 
 from multiple sources as seed papers 

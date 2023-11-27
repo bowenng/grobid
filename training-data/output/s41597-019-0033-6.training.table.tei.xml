@@ -13,7 +13,9 @@
 
 		<figure type="table">
 
-            <table>5: Merging candidate MAG author profiles (automatic algorithm)<lb/> Reliability validataion<lb/> Curated dataset<lb/> validatation with<lb/> manually collected<lb/> CVs<lb/> validate with selected<lb/> GS profiles<lb/> (automatic algorithm)<lb/> validate with additional<lb/> affiliation information<lb/> (automatic algorithm)<lb/> Manually checkup</table>
+            <figDesc>5: Merging candidate MAG author profiles (automatic algorithm)<lb/> </figDesc>
+<lb/> 
+            <table>Reliability validataion<lb/> Curated dataset<lb/> validatation with<lb/> manually collected<lb/> CVs<lb/> validate with selected<lb/> GS profiles<lb/> (automatic algorithm)<lb/> validate with additional<lb/> affiliation information<lb/> (automatic algorithm)<lb/> Manually checkup</table>
 		</figure>
 
 

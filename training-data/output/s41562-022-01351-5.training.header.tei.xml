@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="s41562-022-01351-5"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	<note type="doctype">Articles<lb/></note>
+
+	<idno>https://doi.org/10.1038/s41562-022-01351-5</idno>
+
+	<byline>
+	<affiliation>1<lb/> Department of Sociology, Queens College, City University of New York,</affiliation>
+	</byline>
+
+	<address>New York, NY, USA.</address>
+
+	<byline>
+	<affiliation>2 Department of Sociology, University of California,<lb/></affiliation>
+	</byline>
+
+	<address>Los Angeles, CA, USA.</address>
+
+	<byline>
+	<affiliation>3 Institute for Social Science Research (IRiSS) at Stanford University,</affiliation>
+	</byline>
+
+	<address>Stanford, CA, USA.</address>
+
+	✉ e-mail:
+	<email>charles.gomez@qc.cuny.edu<lb/></email>
+
+	<docTitle>
+	<titlePart>Leading countries in global science increasingly<lb/> receive more citations than other countries doing<lb/> similar research<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Charles J. Gomez 1 ✉ , Andrew C. Herman 2 and Paolo Parigi 3<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">Citations and text analysis are both used to study the distribution and flow of ideas between researchers, fields and countries,<lb/> but the resulting flows are rarely equal. We argue that the differences in these two flows capture a growing global inequality<lb/> in the production of scientific knowledge. We offer a framework called &apos;citational lensing&apos; to identify where citations should<lb/> appear between countries but are absent given that what is embedded in their published abstract texts is highly similar. This<lb/> framework also identifies where citations are overabundant given lower similarity. Our data come from nearly 20 million papers<lb/> across nearly 35 years and 150 fields from the Microsoft Academic Graph. We find that scientific communities increasingly<lb/> centre research from highly active countries while overlooking work from peripheral countries. This inequality is likely to pose<lb/> substantial challenges to the growth of novel ideas.<lb/></div>
+
+	<reference>NAture HumAN BeHAviour | VOL 6 | JULY 2022 | 919-929 | www.nature.com/nathumbehav<lb/></reference>
+
+	<note type="submission">Received: 23 February 2021; Accepted: 11 April 2022;<lb/></note>
+
+	Published online:
+	<date>30 May 2022</date>
+
+	references<lb/> Additional information<lb/> Supplementary information The online version contains supplementary material<lb/> available at
+	<idno>https://doi.org/10.1038/s41562-022-01351-5.<lb/></idno>
+
+	Correspondence and requests for materials should be addressed to
+	<byline>
+	<docAuthor>Charles J. Gomez.<lb/></docAuthor>
+	</byline>
+
+	<note type="copyright">Peer review information Nature Human Behaviour thanks Jens Peter Andersen and the<lb/> other, anonymous, reviewer(s) for their contribution to the peer review of this work.<lb/> Peer reviewer reports are available.<lb/> Reprints and permissions information is available at www.nature.com/reprints.<lb/> Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in<lb/> published maps and institutional affiliations.<lb/> Open Access This article is licensed under a Creative Commons<lb/> Attribution 4.0 International License, which permits use, sharing, adap-<lb/>tation, distribution and reproduction in any medium or format, as long<lb/> as you give appropriate credit to the original author(s) and the source, provide a link to<lb/> the Creative Commons license, and indicate if changes were made. The images or other<lb/> third party material in this article are included in the article&apos;s Creative Commons license,<lb/> unless indicated otherwise in a credit line to the material. If material is not included in<lb/> the article&apos;s Creative Commons license and your intended use is not permitted by statu-<lb/>tory regulation or exceeds the permitted use, you will need to obtain permission directly<lb/> from the copyright holder. To view a copy of this license, visit http://creativecommons.<lb/> org/licenses/by/4.0/.<lb/> © The Author(s) 2022<lb/></note>
+
+	<reference>NAture HumAN BeHAviour | VOL 6 | JULY 2022 | 919-929 | www.nature.com/nathumbehav</reference>
+
+		</front>
+	</text>
+</tei>
